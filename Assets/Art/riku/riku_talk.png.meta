@@ -1,0 +1,680 @@
+fileFormatVersion: 2
+guid: 7c9f71287b34e4944ac262867497e815
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 553930670665709611
+    second: riku_talk_0
+  - first:
+      213: 4321683878757749397
+    second: riku_talk_1
+  - first:
+      213: 4287247866526747564
+    second: riku_talk_2
+  - first:
+      213: 8714666722370151087
+    second: riku_talk_3
+  - first:
+      213: 7319516549325533226
+    second: riku_talk_4
+  - first:
+      213: 8594603559393136245
+    second: riku_talk_5
+  - first:
+      213: -6864551719519332060
+    second: riku_talk_6
+  - first:
+      213: 5140876543871568669
+    second: riku_talk_7
+  - first:
+      213: 2523173429027904781
+    second: riku_talk_8
+  - first:
+      213: 1781366713497159579
+    second: riku_talk_9
+  - first:
+      213: -3260651685326845588
+    second: riku_talk_10
+  - first:
+      213: 7009795103541644990
+    second: riku_talk_11
+  - first:
+      213: -5591981009387575785
+    second: riku_talk_12
+  - first:
+      213: 3207344451705075610
+    second: riku_talk_13
+  - first:
+      213: 5348543994585812565
+    second: riku_talk_14
+  - first:
+      213: 2758591219718547417
+    second: riku_talk_15
+  - first:
+      213: 4841972692171565776
+    second: riku_talk_16
+  - first:
+      213: 8382929415449971270
+    second: riku_talk_17
+  - first:
+      213: 5234512428853545043
+    second: riku_talk_18
+  - first:
+      213: -6312064968450757535
+    second: riku_talk_19
+  - first:
+      213: -1533561603682734352
+    second: riku_talk_20
+  - first:
+      213: 8962893024252130278
+    second: riku_talk_21
+  - first:
+      213: 4980055837727948302
+    second: riku_talk_22
+  - first:
+      213: -519445592622521837
+    second: riku_talk_23
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: riku_talk_0
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 387
+        width: 60
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2839379205ffa700800000000000000
+      internalID: 553930670665709611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: riku_talk_1
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 387
+        width: 60
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59253e82794b9fb30800000000000000
+      internalID: 4321683878757749397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: riku_talk_2
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 387
+        width: 60
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cabc064483d5f7b30800000000000000
+      internalID: 4287247866526747564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: riku_talk_3
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 387
+        width: 60
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa26ac23637b0f870800000000000000
+      internalID: 8714666722370151087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: riku_talk_4
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 387
+        width: 60
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a20342a6585249560800000000000000
+      internalID: 7319516549325533226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: riku_talk_5
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 295
+        width: 60
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57e8feea66a264770800000000000000
+      internalID: 8594603559393136245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: riku_talk_6
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 296
+        width: 60
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 429d0cfb4963cb0a0800000000000000
+      internalID: -6864551719519332060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: riku_talk_7
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 297
+        width: 60
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1b4a97aaff085740800000000000000
+      internalID: 5140876543871568669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: riku_talk_8
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 294
+        width: 60
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0d99e78ddc140320800000000000000
+      internalID: 2523173429027904781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: riku_talk_9
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 295
+        width: 60
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9704bc769fa8b810800000000000000
+      internalID: 1781366713497159579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: riku_talk_10
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 194
+        width: 60
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6980df5196dfb2d0800000000000000
+      internalID: -3260651685326845588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: riku_talk_11
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 194
+        width: 60
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebe4fd6d18bc74160800000000000000
+      internalID: 7009795103541644990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: riku_talk_12
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 194
+        width: 60
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71629b846ea4562b0800000000000000
+      internalID: -5591981009387575785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: riku_talk_13
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 194
+        width: 60
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a97733c19c6c28c20800000000000000
+      internalID: 3207344451705075610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: riku_talk_14
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 194
+        width: 60
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55e06dedc68d93a40800000000000000
+      internalID: 5348543994585812565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: riku_talk_15
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 90
+        width: 60
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d7e5d3491c784620800000000000000
+      internalID: 2758591219718547417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: riku_talk_16
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 90
+        width: 60
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0da27097284223340800000000000000
+      internalID: 4841972692171565776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: riku_talk_17
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 90
+        width: 60
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64a811183e5265470800000000000000
+      internalID: 8382929415449971270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: riku_talk_18
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 90
+        width: 60
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 358ce260259b4a840800000000000000
+      internalID: 5234512428853545043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: riku_talk_19
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 88
+        width: 60
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16c2e4c9a5a0768a0800000000000000
+      internalID: -6312064968450757535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: riku_talk_20
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 2
+        width: 60
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0feef4bb8d1b7bae0800000000000000
+      internalID: -1533561603682734352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: riku_talk_21
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 1
+        width: 60
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e3ff56d7b7926c70800000000000000
+      internalID: 8962893024252130278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: riku_talk_22
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 2
+        width: 60
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0e72612666bc1540800000000000000
+      internalID: 4980055837727948302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: riku_talk_23
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 2
+        width: 60
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 312a7935cfe8ac8f0800000000000000
+      internalID: -519445592622521837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

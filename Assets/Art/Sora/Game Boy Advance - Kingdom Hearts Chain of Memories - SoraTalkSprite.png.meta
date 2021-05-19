@@ -1,0 +1,896 @@
+fileFormatVersion: 2
+guid: 4e12cf8a72ba8e74d8099363dffb4076
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6774998663250317618
+    second: Game Boy Advance - Kingdom Hearts Chain of Memories - SoraTalkSprite_0
+  - first:
+      213: 572448141588159232
+    second: Game Boy Advance - Kingdom Hearts Chain of Memories - SoraTalkSprite_1
+  - first:
+      213: 793228613053959209
+    second: Game Boy Advance - Kingdom Hearts Chain of Memories - SoraTalkSprite_2
+  - first:
+      213: -7286276429331108005
+    second: Game Boy Advance - Kingdom Hearts Chain of Memories - SoraTalkSprite_3
+  - first:
+      213: 8474972931198068031
+    second: Game Boy Advance - Kingdom Hearts Chain of Memories - SoraTalkSprite_4
+  - first:
+      213: 9126109962137032831
+    second: Game Boy Advance - Kingdom Hearts Chain of Memories - SoraTalkSprite_5
+  - first:
+      213: -1400954845317460315
+    second: Game Boy Advance - Kingdom Hearts Chain of Memories - SoraTalkSprite_6
+  - first:
+      213: 726858175396514927
+    second: Game Boy Advance - Kingdom Hearts Chain of Memories - SoraTalkSprite_7
+  - first:
+      213: -5232635144873310639
+    second: Game Boy Advance - Kingdom Hearts Chain of Memories - SoraTalkSprite_8
+  - first:
+      213: 5755344527306504265
+    second: Game Boy Advance - Kingdom Hearts Chain of Memories - SoraTalkSprite_9
+  - first:
+      213: -5733415485694638028
+    second: Game Boy Advance - Kingdom Hearts Chain of Memories - SoraTalkSprite_10
+  - first:
+      213: -5877364392859380902
+    second: Game Boy Advance - Kingdom Hearts Chain of Memories - SoraTalkSprite_11
+  - first:
+      213: -6540315316674901916
+    second: Game Boy Advance - Kingdom Hearts Chain of Memories - SoraTalkSprite_12
+  - first:
+      213: -3272676451687990650
+    second: Game Boy Advance - Kingdom Hearts Chain of Memories - SoraTalkSprite_13
+  - first:
+      213: 7893901108826395775
+    second: Game Boy Advance - Kingdom Hearts Chain of Memories - SoraTalkSprite_14
+  - first:
+      213: 4801145281738101860
+    second: Game Boy Advance - Kingdom Hearts Chain of Memories - SoraTalkSprite_15
+  - first:
+      213: 6027005701158402312
+    second: Game Boy Advance - Kingdom Hearts Chain of Memories - SoraTalkSprite_16
+  - first:
+      213: -6095797261871028712
+    second: Game Boy Advance - Kingdom Hearts Chain of Memories - SoraTalkSprite_17
+  - first:
+      213: -5752078922303433019
+    second: Game Boy Advance - Kingdom Hearts Chain of Memories - SoraTalkSprite_18
+  - first:
+      213: 8852027528282298363
+    second: Game Boy Advance - Kingdom Hearts Chain of Memories - SoraTalkSprite_19
+  - first:
+      213: -6070680205878017410
+    second: Game Boy Advance - Kingdom Hearts Chain of Memories - SoraTalkSprite_20
+  - first:
+      213: -2941218974861173891
+    second: Game Boy Advance - Kingdom Hearts Chain of Memories - SoraTalkSprite_21
+  - first:
+      213: -5967591308655698001
+    second: Game Boy Advance - Kingdom Hearts Chain of Memories - SoraTalkSprite_22
+  - first:
+      213: 8896949490479541662
+    second: Game Boy Advance - Kingdom Hearts Chain of Memories - SoraTalkSprite_23
+  - first:
+      213: -2559010708819362043
+    second: Game Boy Advance - Kingdom Hearts Chain of Memories - SoraTalkSprite_24
+  - first:
+      213: -3722851849239917148
+    second: Game Boy Advance - Kingdom Hearts Chain of Memories - SoraTalkSprite_25
+  - first:
+      213: 855960925165542024
+    second: Game Boy Advance - Kingdom Hearts Chain of Memories - SoraTalkSprite_26
+  - first:
+      213: -1842982747044954523
+    second: Game Boy Advance - Kingdom Hearts Chain of Memories - SoraTalkSprite_27
+  - first:
+      213: -9137997715279427692
+    second: Game Boy Advance - Kingdom Hearts Chain of Memories - SoraTalkSprite_28
+  - first:
+      213: -358743295137520220
+    second: Game Boy Advance - Kingdom Hearts Chain of Memories - SoraTalkSprite_29
+  - first:
+      213: 5282453469742446899
+    second: Game Boy Advance - Kingdom Hearts Chain of Memories - SoraTalkSprite_30
+  - first:
+      213: -3333390588888856844
+    second: Game Boy Advance - Kingdom Hearts Chain of Memories - SoraTalkSprite_31
+  - first:
+      213: 7371191915330838084
+    second: Game Boy Advance - Kingdom Hearts Chain of Memories - SoraTalkSprite_32
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Game Boy Advance - Kingdom Hearts Chain of Memories - SoraTalkSprite_0
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 604
+        width: 66
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23118c48361a50e50800000000000000
+      internalID: 6774998663250317618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kingdom Hearts Chain of Memories - SoraTalkSprite_1
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 604
+        width: 66
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00bd1b34d8eb1f700800000000000000
+      internalID: 572448141588159232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kingdom Hearts Chain of Memories - SoraTalkSprite_2
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 604
+        width: 66
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92cc1ca883d120b00800000000000000
+      internalID: 793228613053959209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kingdom Hearts Chain of Memories - SoraTalkSprite_3
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 604
+        width: 66
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5fea6e1132f1ea90800000000000000
+      internalID: -7286276429331108005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kingdom Hearts Chain of Memories - SoraTalkSprite_4
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 604
+        width: 66
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f35ac158af62d9570800000000000000
+      internalID: 8474972931198068031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kingdom Hearts Chain of Memories - SoraTalkSprite_5
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 507
+        width: 67
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f78d45a88a476ae70800000000000000
+      internalID: 9126109962137032831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kingdom Hearts Chain of Memories - SoraTalkSprite_6
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 507
+        width: 67
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ae8d72adfece8ce0800000000000000
+      internalID: -1400954845317460315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kingdom Hearts Chain of Memories - SoraTalkSprite_7
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 507
+        width: 67
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6c0992d8a1561a00800000000000000
+      internalID: 726858175396514927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kingdom Hearts Chain of Memories - SoraTalkSprite_8
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 507
+        width: 67
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1560a963f02f167b0800000000000000
+      internalID: -5232635144873310639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kingdom Hearts Chain of Memories - SoraTalkSprite_9
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 507
+        width: 67
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 948b71eba571fdf40800000000000000
+      internalID: 5755344527306504265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kingdom Hearts Chain of Memories - SoraTalkSprite_10
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 414
+        width: 66
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43882712ef0de60b0800000000000000
+      internalID: -5733415485694638028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kingdom Hearts Chain of Memories - SoraTalkSprite_11
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 414
+        width: 66
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a53561c69386f6ea0800000000000000
+      internalID: -5877364392859380902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kingdom Hearts Chain of Memories - SoraTalkSprite_12
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 414
+        width: 66
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 468cb8e1fd12c35a0800000000000000
+      internalID: -6540315316674901916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kingdom Hearts Chain of Memories - SoraTalkSprite_13
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 414
+        width: 66
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68af9584b1e1592d0800000000000000
+      internalID: -3272676451687990650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kingdom Hearts Chain of Memories - SoraTalkSprite_14
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 414
+        width: 66
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f74d8ab1c35cc8d60800000000000000
+      internalID: 7893901108826395775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kingdom Hearts Chain of Memories - SoraTalkSprite_15
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 316
+        width: 66
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 464da09323811a240800000000000000
+      internalID: 4801145281738101860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kingdom Hearts Chain of Memories - SoraTalkSprite_16
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 316
+        width: 66
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 809fcc4b0c934a350800000000000000
+      internalID: 6027005701158402312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kingdom Hearts Chain of Memories - SoraTalkSprite_17
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 316
+        width: 66
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 816e06fefa0676ba0800000000000000
+      internalID: -6095797261871028712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kingdom Hearts Chain of Memories - SoraTalkSprite_18
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 316
+        width: 66
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c6971c22b28c20b0800000000000000
+      internalID: -5752078922303433019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kingdom Hearts Chain of Memories - SoraTalkSprite_19
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 316
+        width: 66
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf7de3d0328b8da70800000000000000
+      internalID: 8852027528282298363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kingdom Hearts Chain of Memories - SoraTalkSprite_20
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 222
+        width: 66
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7245af348c90cba0800000000000000
+      internalID: -6070680205878017410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kingdom Hearts Chain of Memories - SoraTalkSprite_21
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 222
+        width: 66
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7bd2c4fce0be27d0800000000000000
+      internalID: -2941218974861173891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kingdom Hearts Chain of Memories - SoraTalkSprite_22
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 222
+        width: 66
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faf5eda825bde2da0800000000000000
+      internalID: -5967591308655698001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kingdom Hearts Chain of Memories - SoraTalkSprite_23
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 222
+        width: 66
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9d20ac6c60587b70800000000000000
+      internalID: 8896949490479541662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kingdom Hearts Chain of Memories - SoraTalkSprite_24
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 222
+        width: 66
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50fb66c81519c7cd0800000000000000
+      internalID: -2559010708819362043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kingdom Hearts Chain of Memories - SoraTalkSprite_25
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 131
+        width: 71
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ad06a6b7f5c55cc0800000000000000
+      internalID: -3722851849239917148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kingdom Hearts Chain of Memories - SoraTalkSprite_26
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 131
+        width: 71
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88a5b162debf0eb00800000000000000
+      internalID: 855960925165542024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kingdom Hearts Chain of Memories - SoraTalkSprite_27
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 131
+        width: 71
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56e3633c4f86c66e0800000000000000
+      internalID: -1842982747044954523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kingdom Hearts Chain of Memories - SoraTalkSprite_28
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 131
+        width: 71
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 497407e3e7f4f2180800000000000000
+      internalID: -9137997715279427692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kingdom Hearts Chain of Memories - SoraTalkSprite_29
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 34
+        width: 61
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a566cfafdc750bf0800000000000000
+      internalID: -358743295137520220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kingdom Hearts Chain of Memories - SoraTalkSprite_30
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 32
+        width: 61
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 339378e617b0f4940800000000000000
+      internalID: 5282453469742446899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kingdom Hearts Chain of Memories - SoraTalkSprite_31
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 32
+        width: 61
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f646a3abea6db1d0800000000000000
+      internalID: -3333390588888856844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kingdom Hearts Chain of Memories - SoraTalkSprite_32
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 43
+        width: 48
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44e96842efbbb4660800000000000000
+      internalID: 7371191915330838084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

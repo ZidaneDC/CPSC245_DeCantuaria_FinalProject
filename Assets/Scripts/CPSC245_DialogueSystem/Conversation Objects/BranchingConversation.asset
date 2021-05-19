@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: aa1b5054466c59a4f9fc5847303125dc, type: 3}
+  m_Name: BranchingConversation
+  m_EditorClassIdentifier: 
+  isBranching: 1
+  convoLength: 0
+  dialogueSprites:
+  - {fileID: 5293031974318352618, guid: 152d9256173d4154d805b103d9fd5657, type: 3}
+  - {fileID: 9126109962137032831, guid: 4e12cf8a72ba8e74d8099363dffb4076, type: 3}
+  - {fileID: 6774998663250317618, guid: 4e12cf8a72ba8e74d8099363dffb4076, type: 3}
+  - {fileID: 5293031974318352618, guid: 152d9256173d4154d805b103d9fd5657, type: 3}
+  - {fileID: 9126109962137032831, guid: 4e12cf8a72ba8e74d8099363dffb4076, type: 3}
+  - {fileID: 4801145281738101860, guid: 4e12cf8a72ba8e74d8099363dffb4076, type: 3}
+  - {fileID: 5293031974318352618, guid: 152d9256173d4154d805b103d9fd5657, type: 3}
+  - {fileID: 5293031974318352618, guid: 152d9256173d4154d805b103d9fd5657, type: 3}
+  dialogueBoxes:
+  - Hello, would you like to save your game?
+  - Sure!
+  - No thanks.
+  - Are you sure?
+  - Yup.
+  - Actually, I think I will.
+  - Have a good day then.
+  - Game saved.
+  speakerNames:
+  - Save Crystal
+  - Sora
+  - Sora
+  - Save Crystal
+  - Sora
+  - Sora
+  - Save Crystal
+  - Save Crystal
+  isBranchPoint: 0100000100000000
+  playerOptionOne:
+  - Yes
+  - Yes
+  - Yes
+  - Yes
+  - Yes
+  - Yes
+  - Yes
+  - Yes
+  playerOptionTwo:
+  - No
+  - No
+  - No
+  - No
+  - No
+  - No
+  - No
+  - No
+  dialoguePointerOne: 010000000700000003000000040000000600000007000000ffffffffffffffff
+  dialoguePointerTwo: 02000000ffffffffffffffff05000000ffffffffffffffffffffffffffffffff

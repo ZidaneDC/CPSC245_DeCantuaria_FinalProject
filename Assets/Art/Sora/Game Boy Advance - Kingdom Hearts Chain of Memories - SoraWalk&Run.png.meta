@@ -1,0 +1,2315 @@
+fileFormatVersion: 2
+guid: 134288b1d4b98cf418d86a27e3b51b47
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1832052402532629593
+    second: Game Boy Advance - Kingdom Hearts Chain of Memories - SoraWalk&Run_0
+  - first:
+      213: 1809136964048811430
+    second: Game Boy Advance - Kingdom Hearts Chain of Memories - SoraWalk&Run_1
+  - first:
+      213: 4710522899811132987
+    second: Game Boy Advance - Kingdom Hearts Chain of Memories - SoraWalk&Run_2
+  - first:
+      213: 5275872586442232965
+    second: Game Boy Advance - Kingdom Hearts Chain of Memories - SoraWalk&Run_3
+  - first:
+      213: -365264707517251184
+    second: Game Boy Advance - Kingdom Hearts Chain of Memories - SoraWalk&Run_4
+  - first:
+      213: -7359622483459363438
+    second: Game Boy Advance - Kingdom Hearts Chain of Memories - SoraWalk&Run_5
+  - first:
+      213: -16655354069979660
+    second: Game Boy Advance - Kingdom Hearts Chain of Memories - SoraWalk&Run_6
+  - first:
+      213: -3586456562275195459
+    second: Game Boy Advance - Kingdom Hearts Chain of Memories - SoraWalk&Run_7
+  - first:
+      213: 310935059661172794
+    second: Game Boy Advance - Kingdom Hearts Chain of Memories - SoraWalk&Run_8
+  - first:
+      213: -8127672622253174700
+    second: Game Boy Advance - Kingdom Hearts Chain of Memories - SoraWalk&Run_9
+  - first:
+      213: -4594277301929233958
+    second: Game Boy Advance - Kingdom Hearts Chain of Memories - SoraWalk&Run_10
+  - first:
+      213: 1935477215768318183
+    second: Game Boy Advance - Kingdom Hearts Chain of Memories - SoraWalk&Run_11
+  - first:
+      213: 7732458150504933794
+    second: Game Boy Advance - Kingdom Hearts Chain of Memories - SoraWalk&Run_12
+  - first:
+      213: -7002928033013891480
+    second: Game Boy Advance - Kingdom Hearts Chain of Memories - SoraWalk&Run_13
+  - first:
+      213: -5081326215325106333
+    second: Game Boy Advance - Kingdom Hearts Chain of Memories - SoraWalk&Run_14
+  - first:
+      213: -7170680069018579579
+    second: Game Boy Advance - Kingdom Hearts Chain of Memories - SoraWalk&Run_15
+  - first:
+      213: -6056949055048633888
+    second: Game Boy Advance - Kingdom Hearts Chain of Memories - SoraWalk&Run_16
+  - first:
+      213: 1066948368157898277
+    second: Game Boy Advance - Kingdom Hearts Chain of Memories - SoraWalk&Run_17
+  - first:
+      213: -7502560255656279035
+    second: Game Boy Advance - Kingdom Hearts Chain of Memories - SoraWalk&Run_18
+  - first:
+      213: -1062383201003661297
+    second: Game Boy Advance - Kingdom Hearts Chain of Memories - SoraWalk&Run_19
+  - first:
+      213: 6523611735157479450
+    second: Game Boy Advance - Kingdom Hearts Chain of Memories - SoraWalk&Run_20
+  - first:
+      213: -4905341011814463888
+    second: Game Boy Advance - Kingdom Hearts Chain of Memories - SoraWalk&Run_21
+  - first:
+      213: -8823524772642616279
+    second: Game Boy Advance - Kingdom Hearts Chain of Memories - SoraWalk&Run_22
+  - first:
+      213: -1137596391659803854
+    second: Game Boy Advance - Kingdom Hearts Chain of Memories - SoraWalk&Run_23
+  - first:
+      213: -8640313241255929680
+    second: Game Boy Advance - Kingdom Hearts Chain of Memories - SoraWalk&Run_24
+  - first:
+      213: 8545667475829497584
+    second: Game Boy Advance - Kingdom Hearts Chain of Memories - SoraWalk&Run_25
+  - first:
+      213: -1223577053368347976
+    second: Game Boy Advance - Kingdom Hearts Chain of Memories - SoraWalk&Run_26
+  - first:
+      213: 6467695461687871522
+    second: Game Boy Advance - Kingdom Hearts Chain of Memories - SoraWalk&Run_27
+  - first:
+      213: -627196307814570457
+    second: Game Boy Advance - Kingdom Hearts Chain of Memories - SoraWalk&Run_28
+  - first:
+      213: 5844929551238549582
+    second: Game Boy Advance - Kingdom Hearts Chain of Memories - SoraWalk&Run_29
+  - first:
+      213: -659439053625034262
+    second: Game Boy Advance - Kingdom Hearts Chain of Memories - SoraWalk&Run_30
+  - first:
+      213: -2879059423991866221
+    second: Game Boy Advance - Kingdom Hearts Chain of Memories - SoraWalk&Run_31
+  - first:
+      213: -4522176777112530362
+    second: Game Boy Advance - Kingdom Hearts Chain of Memories - SoraWalk&Run_32
+  - first:
+      213: 5842273579478152585
+    second: Game Boy Advance - Kingdom Hearts Chain of Memories - SoraWalk&Run_33
+  - first:
+      213: 4691970543244805975
+    second: Game Boy Advance - Kingdom Hearts Chain of Memories - SoraWalk&Run_34
+  - first:
+      213: -8668677692230261408
+    second: Game Boy Advance - Kingdom Hearts Chain of Memories - SoraWalk&Run_35
+  - first:
+      213: -1296557344567814531
+    second: Game Boy Advance - Kingdom Hearts Chain of Memories - SoraWalk&Run_36
+  - first:
+      213: -7599222504082915196
+    second: Game Boy Advance - Kingdom Hearts Chain of Memories - SoraWalk&Run_37
+  - first:
+      213: 2452602714167810495
+    second: Game Boy Advance - Kingdom Hearts Chain of Memories - SoraWalk&Run_38
+  - first:
+      213: -2835549970126404987
+    second: Game Boy Advance - Kingdom Hearts Chain of Memories - SoraWalk&Run_39
+  - first:
+      213: -8639752976232670200
+    second: Game Boy Advance - Kingdom Hearts Chain of Memories - SoraWalk&Run_40
+  - first:
+      213: 5555954778376982302
+    second: Game Boy Advance - Kingdom Hearts Chain of Memories - SoraWalk&Run_41
+  - first:
+      213: -3171939065449840662
+    second: Game Boy Advance - Kingdom Hearts Chain of Memories - SoraWalk&Run_42
+  - first:
+      213: 4517522553231641722
+    second: Game Boy Advance - Kingdom Hearts Chain of Memories - SoraWalk&Run_43
+  - first:
+      213: 6738998237260724161
+    second: Game Boy Advance - Kingdom Hearts Chain of Memories - SoraWalk&Run_44
+  - first:
+      213: -1884415390631338268
+    second: Game Boy Advance - Kingdom Hearts Chain of Memories - SoraWalk&Run_45
+  - first:
+      213: 4059729904657176259
+    second: Game Boy Advance - Kingdom Hearts Chain of Memories - SoraWalk&Run_46
+  - first:
+      213: -8277777888078234936
+    second: Game Boy Advance - Kingdom Hearts Chain of Memories - SoraWalk&Run_47
+  - first:
+      213: -6054946879747971296
+    second: Game Boy Advance - Kingdom Hearts Chain of Memories - SoraWalk&Run_48
+  - first:
+      213: -7336029092320654784
+    second: Game Boy Advance - Kingdom Hearts Chain of Memories - SoraWalk&Run_49
+  - first:
+      213: 8198865266687027773
+    second: Game Boy Advance - Kingdom Hearts Chain of Memories - SoraWalk&Run_50
+  - first:
+      213: -55431236349682365
+    second: Game Boy Advance - Kingdom Hearts Chain of Memories - SoraWalk&Run_51
+  - first:
+      213: -3514868117733722642
+    second: Game Boy Advance - Kingdom Hearts Chain of Memories - SoraWalk&Run_52
+  - first:
+      213: -5203244191905770167
+    second: Game Boy Advance - Kingdom Hearts Chain of Memories - SoraWalk&Run_53
+  - first:
+      213: 9157244406439787243
+    second: Game Boy Advance - Kingdom Hearts Chain of Memories - SoraWalk&Run_54
+  - first:
+      213: -642726900206914857
+    second: Game Boy Advance - Kingdom Hearts Chain of Memories - SoraWalk&Run_55
+  - first:
+      213: -2162653290442135546
+    second: Game Boy Advance - Kingdom Hearts Chain of Memories - SoraWalk&Run_56
+  - first:
+      213: -5888503171943438999
+    second: Game Boy Advance - Kingdom Hearts Chain of Memories - SoraWalk&Run_57
+  - first:
+      213: 5111842520126078126
+    second: Game Boy Advance - Kingdom Hearts Chain of Memories - SoraWalk&Run_58
+  - first:
+      213: -6049293349451773867
+    second: Game Boy Advance - Kingdom Hearts Chain of Memories - SoraWalk&Run_59
+  - first:
+      213: 6752450348406883586
+    second: Game Boy Advance - Kingdom Hearts Chain of Memories - SoraWalk&Run_60
+  - first:
+      213: 161943291472567380
+    second: Game Boy Advance - Kingdom Hearts Chain of Memories - SoraWalk&Run_61
+  - first:
+      213: 1455402224457482609
+    second: Game Boy Advance - Kingdom Hearts Chain of Memories - SoraWalk&Run_62
+  - first:
+      213: 8938750385835879397
+    second: Game Boy Advance - Kingdom Hearts Chain of Memories - SoraWalk&Run_63
+  - first:
+      213: -7022417589321374921
+    second: Game Boy Advance - Kingdom Hearts Chain of Memories - SoraWalk&Run_64
+  - first:
+      213: 6600096138879304783
+    second: Game Boy Advance - Kingdom Hearts Chain of Memories - SoraWalk&Run_65
+  - first:
+      213: 7041811700624405756
+    second: Game Boy Advance - Kingdom Hearts Chain of Memories - SoraWalk&Run_66
+  - first:
+      213: -8871406461753547365
+    second: Game Boy Advance - Kingdom Hearts Chain of Memories - SoraWalk&Run_67
+  - first:
+      213: -6053351993044424363
+    second: Game Boy Advance - Kingdom Hearts Chain of Memories - SoraWalk&Run_68
+  - first:
+      213: -5609588508449039992
+    second: Game Boy Advance - Kingdom Hearts Chain of Memories - SoraWalk&Run_69
+  - first:
+      213: 5876268810066406041
+    second: Game Boy Advance - Kingdom Hearts Chain of Memories - SoraWalk&Run_70
+  - first:
+      213: 4405136114292304556
+    second: Game Boy Advance - Kingdom Hearts Chain of Memories - SoraWalk&Run_71
+  - first:
+      213: 2142352252483905492
+    second: Game Boy Advance - Kingdom Hearts Chain of Memories - SoraWalk&Run_72
+  - first:
+      213: -2094797482309124504
+    second: Game Boy Advance - Kingdom Hearts Chain of Memories - SoraWalk&Run_73
+  - first:
+      213: 3776402464335262380
+    second: Game Boy Advance - Kingdom Hearts Chain of Memories - SoraWalk&Run_74
+  - first:
+      213: 8046939060693670547
+    second: Game Boy Advance - Kingdom Hearts Chain of Memories - SoraWalk&Run_75
+  - first:
+      213: 3140617523537281913
+    second: Game Boy Advance - Kingdom Hearts Chain of Memories - SoraWalk&Run_76
+  - first:
+      213: -4036701207460155421
+    second: Game Boy Advance - Kingdom Hearts Chain of Memories - SoraWalk&Run_77
+  - first:
+      213: 3117667156761542353
+    second: Game Boy Advance - Kingdom Hearts Chain of Memories - SoraWalk&Run_78
+  - first:
+      213: -7418170336011495269
+    second: Game Boy Advance - Kingdom Hearts Chain of Memories - SoraWalk&Run_79
+  - first:
+      213: 6024947695335370465
+    second: Game Boy Advance - Kingdom Hearts Chain of Memories - SoraWalk&Run_80
+  - first:
+      213: -700157888222546096
+    second: Game Boy Advance - Kingdom Hearts Chain of Memories - SoraWalk&Run_81
+  - first:
+      213: -3381479898675241963
+    second: Game Boy Advance - Kingdom Hearts Chain of Memories - SoraWalk&Run_82
+  - first:
+      213: -3073012890739622618
+    second: Game Boy Advance - Kingdom Hearts Chain of Memories - SoraWalk&Run_83
+  - first:
+      213: -1807159364524654290
+    second: Game Boy Advance - Kingdom Hearts Chain of Memories - SoraWalk&Run_84
+  - first:
+      213: -6090191488080037713
+    second: Game Boy Advance - Kingdom Hearts Chain of Memories - SoraWalk&Run_85
+  - first:
+      213: -8911085000818519739
+    second: Game Boy Advance - Kingdom Hearts Chain of Memories - SoraWalk&Run_86
+  - first:
+      213: 5062810052825381080
+    second: Game Boy Advance - Kingdom Hearts Chain of Memories - SoraWalk&Run_87
+  - first:
+      213: -6069659679713719739
+    second: Game Boy Advance - Kingdom Hearts Chain of Memories - SoraWalk&Run_88
+  - first:
+      213: -6510023789712984040
+    second: Game Boy Advance - Kingdom Hearts Chain of Memories - SoraWalk&Run_89
+  - first:
+      213: -7706191255805313465
+    second: Game Boy Advance - Kingdom Hearts Chain of Memories - SoraWalk&Run_90
+  - first:
+      213: 4647490622585236084
+    second: Game Boy Advance - Kingdom Hearts Chain of Memories - SoraWalk&Run_91
+  - first:
+      213: -5531622285506563049
+    second: Game Boy Advance - Kingdom Hearts Chain of Memories - SoraWalk&Run_92
+  - first:
+      213: 1875858208276509335
+    second: Game Boy Advance - Kingdom Hearts Chain of Memories - SoraWalk&Run_93
+  - first:
+      213: 232229007554621174
+    second: Game Boy Advance - Kingdom Hearts Chain of Memories - SoraWalk&Run_94
+  - first:
+      213: -6703685989688524279
+    second: Game Boy Advance - Kingdom Hearts Chain of Memories - SoraWalk&Run_95
+  - first:
+      213: -4236253855994055032
+    second: Game Boy Advance - Kingdom Hearts Chain of Memories - SoraWalk&Run_96
+  - first:
+      213: -255243414105316548
+    second: Game Boy Advance - Kingdom Hearts Chain of Memories - SoraWalk&Run_97
+  - first:
+      213: -5281151406954698798
+    second: Game Boy Advance - Kingdom Hearts Chain of Memories - SoraWalk&Run_98
+  - first:
+      213: 5385713729599054567
+    second: Game Boy Advance - Kingdom Hearts Chain of Memories - SoraWalk&Run_99
+  - first:
+      213: 5481749876297931079
+    second: Game Boy Advance - Kingdom Hearts Chain of Memories - SoraWalk&Run_100
+  - first:
+      213: 3229794528155296067
+    second: Game Boy Advance - Kingdom Hearts Chain of Memories - SoraWalk&Run_101
+  - first:
+      213: 49484804001414019
+    second: Game Boy Advance - Kingdom Hearts Chain of Memories - SoraWalk&Run_102
+  - first:
+      213: -4225726331211032478
+    second: Game Boy Advance - Kingdom Hearts Chain of Memories - SoraWalk&Run_103
+  - first:
+      213: -3507282889801138772
+    second: Game Boy Advance - Kingdom Hearts Chain of Memories - SoraWalk&Run_104
+  - first:
+      213: -6294895928297568795
+    second: Game Boy Advance - Kingdom Hearts Chain of Memories - SoraWalk&Run_105
+  - first:
+      213: -4292958015477505561
+    second: Game Boy Advance - Kingdom Hearts Chain of Memories - SoraWalk&Run_106
+  - first:
+      213: -6189897426317677050
+    second: Game Boy Advance - Kingdom Hearts Chain of Memories - SoraWalk&Run_107
+  - first:
+      213: -3265874304519731467
+    second: Game Boy Advance - Kingdom Hearts Chain of Memories - SoraWalk&Run_108
+  - first:
+      213: -7878041335147522199
+    second: Game Boy Advance - Kingdom Hearts Chain of Memories - SoraWalk&Run_109
+  - first:
+      213: -6443362164495746789
+    second: Game Boy Advance - Kingdom Hearts Chain of Memories - SoraWalk&Run_110
+  - first:
+      213: -734525596388423387
+    second: Game Boy Advance - Kingdom Hearts Chain of Memories - SoraWalk&Run_111
+  - first:
+      213: 5616724271757964372
+    second: Game Boy Advance - Kingdom Hearts Chain of Memories - SoraWalk&Run_112
+  - first:
+      213: 3504066285097626909
+    second: Game Boy Advance - Kingdom Hearts Chain of Memories - SoraWalk&Run_113
+  - first:
+      213: -5808342484807271345
+    second: Game Boy Advance - Kingdom Hearts Chain of Memories - SoraWalk&Run_114
+  - first:
+      213: 5967945911355652273
+    second: Game Boy Advance - Kingdom Hearts Chain of Memories - SoraWalk&Run_115
+  - first:
+      213: 195317030046945219
+    second: Game Boy Advance - Kingdom Hearts Chain of Memories - SoraWalk&Run_116
+  - first:
+      213: -3738409621509362817
+    second: Game Boy Advance - Kingdom Hearts Chain of Memories - SoraWalk&Run_117
+  - first:
+      213: -6803427200476301818
+    second: Game Boy Advance - Kingdom Hearts Chain of Memories - SoraWalk&Run_118
+  - first:
+      213: 8808494947086413922
+    second: Game Boy Advance - Kingdom Hearts Chain of Memories - SoraWalk&Run_119
+  - first:
+      213: -8675621365486709443
+    second: Game Boy Advance - Kingdom Hearts Chain of Memories - SoraWalk&Run_120
+  - first:
+      213: -7709370635525434158
+    second: Game Boy Advance - Kingdom Hearts Chain of Memories - SoraWalk&Run_121
+  - first:
+      213: -6745825359550107198
+    second: Game Boy Advance - Kingdom Hearts Chain of Memories - SoraWalk&Run_122
+  - first:
+      213: -4496883444547637166
+    second: Game Boy Advance - Kingdom Hearts Chain of Memories - SoraWalk&Run_123
+  - first:
+      213: -66588667986344101
+    second: Game Boy Advance - Kingdom Hearts Chain of Memories - SoraWalk&Run_124
+  - first:
+      213: -2880947095879203694
+    second: Game Boy Advance - Kingdom Hearts Chain of Memories - SoraWalk&Run_125
+  - first:
+      213: 7423028611072521637
+    second: Game Boy Advance - Kingdom Hearts Chain of Memories - SoraWalk&Run_126
+  - first:
+      213: 8967174292723758566
+    second: Game Boy Advance - Kingdom Hearts Chain of Memories - SoraWalk&Run_127
+  - first:
+      213: 8812968419554038727
+    second: Game Boy Advance - Kingdom Hearts Chain of Memories - SoraWalk&Run_128
+  - first:
+      213: 8957983680472767655
+    second: Game Boy Advance - Kingdom Hearts Chain of Memories - SoraWalk&Run_129
+  - first:
+      213: -4013313130346803900
+    second: Game Boy Advance - Kingdom Hearts Chain of Memories - SoraWalk&Run_130
+  - first:
+      213: 3793723485581745887
+    second: Game Boy Advance - Kingdom Hearts Chain of Memories - SoraWalk&Run_131
+  - first:
+      213: 2438861761476669449
+    second: Game Boy Advance - Kingdom Hearts Chain of Memories - SoraWalk&Run_132
+  - first:
+      213: -1723247767057350696
+    second: Game Boy Advance - Kingdom Hearts Chain of Memories - SoraWalk&Run_133
+  - first:
+      213: 1838400785680400014
+    second: Game Boy Advance - Kingdom Hearts Chain of Memories - SoraWalk&Run_134
+  - first:
+      213: -8048987320484589692
+    second: Game Boy Advance - Kingdom Hearts Chain of Memories - SoraWalk&Run_135
+  - first:
+      213: 2089739112923791350
+    second: Game Boy Advance - Kingdom Hearts Chain of Memories - SoraWalk&Run_136
+  - first:
+      213: -8411619127284690885
+    second: Game Boy Advance - Kingdom Hearts Chain of Memories - SoraWalk&Run_137
+  - first:
+      213: 2433660443862587854
+    second: Game Boy Advance - Kingdom Hearts Chain of Memories - SoraWalk&Run_138
+  - first:
+      213: -103796762661944498
+    second: Game Boy Advance - Kingdom Hearts Chain of Memories - SoraWalk&Run_139
+  - first:
+      213: -4220443248859452330
+    second: Game Boy Advance - Kingdom Hearts Chain of Memories - SoraWalk&Run_140
+  - first:
+      213: -4526911081115745794
+    second: Game Boy Advance - Kingdom Hearts Chain of Memories - SoraWalk&Run_141
+  - first:
+      213: 9107630318651919670
+    second: Game Boy Advance - Kingdom Hearts Chain of Memories - SoraWalk&Run_142
+  - first:
+      213: -389178565873631209
+    second: Game Boy Advance - Kingdom Hearts Chain of Memories - SoraWalk&Run_143
+  - first:
+      213: -7825265893153479234
+    second: Game Boy Advance - Kingdom Hearts Chain of Memories - SoraWalk&Run_144
+  - first:
+      213: 1803173148880289663
+    second: Game Boy Advance - Kingdom Hearts Chain of Memories - SoraWalk&Run_145
+  - first:
+      213: -7492915418856693248
+    second: Game Boy Advance - Kingdom Hearts Chain of Memories - SoraWalk&Run_146
+  - first:
+      213: -4610586165768289454
+    second: Game Boy Advance - Kingdom Hearts Chain of Memories - SoraWalk&Run_147
+  - first:
+      213: 6788564538164361981
+    second: Game Boy Advance - Kingdom Hearts Chain of Memories - SoraWalk&Run_148
+  - first:
+      213: 6667537509486814609
+    second: Game Boy Advance - Kingdom Hearts Chain of Memories - SoraWalk&Run_149
+  - first:
+      213: -7267694002093832945
+    second: Game Boy Advance - Kingdom Hearts Chain of Memories - SoraWalk&Run_150
+  - first:
+      213: -9201951335260788867
+    second: Game Boy Advance - Kingdom Hearts Chain of Memories - SoraWalk&Run_151
+  - first:
+      213: 8429519429892777027
+    second: Game Boy Advance - Kingdom Hearts Chain of Memories - SoraWalk&Run_152
+  - first:
+      213: -3509221478441517688
+    second: Game Boy Advance - Kingdom Hearts Chain of Memories - SoraWalk&Run_153
+  - first:
+      213: 7038021924500787942
+    second: Game Boy Advance - Kingdom Hearts Chain of Memories - SoraWalk&Run_154
+  - first:
+      213: 8897412363747436250
+    second: Game Boy Advance - Kingdom Hearts Chain of Memories - SoraWalk&Run_155
+  - first:
+      213: -9121094230191671294
+    second: Game Boy Advance - Kingdom Hearts Chain of Memories - SoraWalk&Run_156
+  - first:
+      213: -2938488426594829372
+    second: Game Boy Advance - Kingdom Hearts Chain of Memories - SoraWalk&Run_157
+  - first:
+      213: 2315946965447126728
+    second: Game Boy Advance - Kingdom Hearts Chain of Memories - SoraWalk&Run_158
+  - first:
+      213: -915505257216225532
+    second: Game Boy Advance - Kingdom Hearts Chain of Memories - SoraWalk&Run_159
+  - first:
+      213: -4746628182475323111
+    second: Game Boy Advance - Kingdom Hearts Chain of Memories - SoraWalk&Run_160
+  - first:
+      213: -521300511508137690
+    second: Game Boy Advance - Kingdom Hearts Chain of Memories - SoraWalk&Run_161
+  - first:
+      213: 5664331975715299926
+    second: Game Boy Advance - Kingdom Hearts Chain of Memories - SoraWalk&Run_162
+  - first:
+      213: -1136521197057838960
+    second: Game Boy Advance - Kingdom Hearts Chain of Memories - SoraWalk&Run_163
+  - first:
+      213: -5909905703503435688
+    second: Game Boy Advance - Kingdom Hearts Chain of Memories - SoraWalk&Run_164
+  - first:
+      213: -1006128824241754690
+    second: Game Boy Advance - Kingdom Hearts Chain of Memories - SoraWalk&Run_165
+  - first:
+      213: -1857328226842075372
+    second: Game Boy Advance - Kingdom Hearts Chain of Memories - SoraWalk&Run_166
+  - first:
+      213: 1233036484885024456
+    second: Game Boy Advance - Kingdom Hearts Chain of Memories - SoraWalk&Run_167
+  - first:
+      213: 7314512152157089073
+    second: Game Boy Advance - Kingdom Hearts Chain of Memories - SoraWalk&Run_168
+  - first:
+      213: -6223359255943916417
+    second: Game Boy Advance - Kingdom Hearts Chain of Memories - SoraWalk&Run_169
+  - first:
+      213: 5720238610761912590
+    second: Game Boy Advance - Kingdom Hearts Chain of Memories - SoraWalk&Run_170
+  - first:
+      213: -2080899148676469999
+    second: Game Boy Advance - Kingdom Hearts Chain of Memories - SoraWalk&Run_171
+  - first:
+      213: -5845945218064117974
+    second: Game Boy Advance - Kingdom Hearts Chain of Memories - SoraWalk&Run_172
+  - first:
+      213: -8161236115498028305
+    second: Game Boy Advance - Kingdom Hearts Chain of Memories - SoraWalk&Run_173
+  - first:
+      213: 6408769539693544566
+    second: Game Boy Advance - Kingdom Hearts Chain of Memories - SoraWalk&Run_174
+  - first:
+      213: 84819267446153905
+    second: Game Boy Advance - Kingdom Hearts Chain of Memories - SoraWalk&Run_175
+  - first:
+      213: 868551748009160042
+    second: Game Boy Advance - Kingdom Hearts Chain of Memories - SoraWalk&Run_176
+  - first:
+      213: 8783432964172961190
+    second: Game Boy Advance - Kingdom Hearts Chain of Memories - SoraWalk&Run_177
+  - first:
+      213: -128626223873296461
+    second: Game Boy Advance - Kingdom Hearts Chain of Memories - SoraWalk&Run_178
+  - first:
+      213: -6182930632504013583
+    second: Game Boy Advance - Kingdom Hearts Chain of Memories - SoraWalk&Run_179
+  - first:
+      213: 7724663420802926353
+    second: Game Boy Advance - Kingdom Hearts Chain of Memories - SoraWalk&Run_180
+  - first:
+      213: 8306378521825740177
+    second: Game Boy Advance - Kingdom Hearts Chain of Memories - SoraWalk&Run_181
+  - first:
+      213: 5108124389383268499
+    second: Game Boy Advance - Kingdom Hearts Chain of Memories - SoraWalk&Run_182
+  - first:
+      213: 5722927246637712809
+    second: Game Boy Advance - Kingdom Hearts Chain of Memories - SoraWalk&Run_183
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Game Boy Advance - Kingdom Hearts Chain of Memories - SoraWalk&Run_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 578
+        width: 28
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95cbbd614f1cc6910800000000000000
+      internalID: 1832052402532629593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kingdom Hearts Chain of Memories - SoraWalk&Run_1
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 567
+        width: 25
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a5782ccb785b1910800000000000000
+      internalID: 1809136964048811430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kingdom Hearts Chain of Memories - SoraWalk&Run_2
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 567
+        width: 25
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b36e595be932f5140800000000000000
+      internalID: 4710522899811132987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kingdom Hearts Chain of Memories - SoraWalk&Run_3
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 532
+        width: 29
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5845c132a2aa73940800000000000000
+      internalID: 5275872586442232965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kingdom Hearts Chain of Memories - SoraWalk&Run_4
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 532
+        width: 26
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 091827b0fa15eeaf0800000000000000
+      internalID: -365264707517251184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kingdom Hearts Chain of Memories - SoraWalk&Run_5
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 532
+        width: 25
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29d2d60285e5dd990800000000000000
+      internalID: -7359622483459363438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kingdom Hearts Chain of Memories - SoraWalk&Run_6
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 532
+        width: 28
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fdec013b04d4cff0800000000000000
+      internalID: -16655354069979660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kingdom Hearts Chain of Memories - SoraWalk&Run_7
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 532
+        width: 29
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db5e73b22c85a3ec0800000000000000
+      internalID: -3586456562275195459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kingdom Hearts Chain of Memories - SoraWalk&Run_8
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 532
+        width: 26
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a30b1531ac9a05400800000000000000
+      internalID: 310935059661172794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kingdom Hearts Chain of Memories - SoraWalk&Run_9
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 532
+        width: 25
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4509ee3ffc4b43f80800000000000000
+      internalID: -8127672622253174700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kingdom Hearts Chain of Memories - SoraWalk&Run_10
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 532
+        width: 28
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad13edaa229dd30c0800000000000000
+      internalID: -4594277301929233958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kingdom Hearts Chain of Memories - SoraWalk&Run_11
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 511
+        width: 25
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e09bbce5423cda10800000000000000
+      internalID: 1935477215768318183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kingdom Hearts Chain of Memories - SoraWalk&Run_12
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 511
+        width: 26
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a9ab6538b53f4b60800000000000000
+      internalID: 7732458150504933794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kingdom Hearts Chain of Memories - SoraWalk&Run_13
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 512
+        width: 23
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86ef49c9e0a90de90800000000000000
+      internalID: -7002928033013891480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kingdom Hearts Chain of Memories - SoraWalk&Run_14
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 479
+        width: 26
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36fbaabaab08b79b0800000000000000
+      internalID: -5081326215325106333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kingdom Hearts Chain of Memories - SoraWalk&Run_15
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 450
+        width: 23
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58d8c281870ac7c90800000000000000
+      internalID: -7170680069018579579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kingdom Hearts Chain of Memories - SoraWalk&Run_16
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 450
+        width: 23
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e1303fece461fba0800000000000000
+      internalID: -6056949055048633888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kingdom Hearts Chain of Memories - SoraWalk&Run_17
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 427
+        width: 23
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 526fbbd43ef8ece00800000000000000
+      internalID: 1066948368157898277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kingdom Hearts Chain of Memories - SoraWalk&Run_18
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 427
+        width: 27
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 504c4af923d81e790800000000000000
+      internalID: -7502560255656279035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kingdom Hearts Chain of Memories - SoraWalk&Run_19
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 427
+        width: 26
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0895d08b18a141f0800000000000000
+      internalID: -1062383201003661297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kingdom Hearts Chain of Memories - SoraWalk&Run_20
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 427
+        width: 24
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1891ae3f46888a50800000000000000
+      internalID: 6523611735157479450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kingdom Hearts Chain of Memories - SoraWalk&Run_21
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 427
+        width: 24
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 076c4a0e65abcebb0800000000000000
+      internalID: -4905341011814463888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kingdom Hearts Chain of Memories - SoraWalk&Run_22
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 427
+        width: 33
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92c07c3e7fa8c8580800000000000000
+      internalID: -8823524772642616279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kingdom Hearts Chain of Memories - SoraWalk&Run_23
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 427
+        width: 29
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23be959eb127630f0800000000000000
+      internalID: -1137596391659803854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kingdom Hearts Chain of Memories - SoraWalk&Run_24
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 427
+        width: 25
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b816daa2e0771880800000000000000
+      internalID: -8640313241255929680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kingdom Hearts Chain of Memories - SoraWalk&Run_25
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 379
+        width: 26
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fe1d69da4f489670800000000000000
+      internalID: 8545667475829497584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kingdom Hearts Chain of Memories - SoraWalk&Run_26
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 379
+        width: 25
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b219aa172bf40fe0800000000000000
+      internalID: -1223577053368347976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kingdom Hearts Chain of Memories - SoraWalk&Run_27
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 379
+        width: 32
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 228cf4d41ced1c950800000000000000
+      internalID: 6467695461687871522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kingdom Hearts Chain of Memories - SoraWalk&Run_28
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 380
+        width: 34
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 726a644f740cb47f0800000000000000
+      internalID: -627196307814570457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kingdom Hearts Chain of Memories - SoraWalk&Run_29
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 380
+        width: 38
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e40d1c6857c5d1150800000000000000
+      internalID: 5844929551238549582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kingdom Hearts Chain of Memories - SoraWalk&Run_30
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 380
+        width: 37
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae9f8a1bca339d6f0800000000000000
+      internalID: -659439053625034262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kingdom Hearts Chain of Memories - SoraWalk&Run_31
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 380
+        width: 31
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39c59b135b68b08d0800000000000000
+      internalID: -2879059423991866221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kingdom Hearts Chain of Memories - SoraWalk&Run_32
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 380
+        width: 29
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 642dfa44e200e31c0800000000000000
+      internalID: -4522176777112530362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kingdom Hearts Chain of Memories - SoraWalk&Run_33
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 380
+        width: 36
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 985f179eddce31150800000000000000
+      internalID: 5842273579478152585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kingdom Hearts Chain of Memories - SoraWalk&Run_34
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 380
+        width: 41
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75704b6995a3d1140800000000000000
+      internalID: 4691970543244805975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kingdom Hearts Chain of Memories - SoraWalk&Run_35
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 380
+        width: 35
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 065234a419ba2b780800000000000000
+      internalID: -8668677692230261408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kingdom Hearts Chain of Memories - SoraWalk&Run_36
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 326
+        width: 27
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d769c1ee6f3b10ee0800000000000000
+      internalID: -1296557344567814531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kingdom Hearts Chain of Memories - SoraWalk&Run_37
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 322
+        width: 20
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 480cbfa15632a8690800000000000000
+      internalID: -7599222504082915196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kingdom Hearts Chain of Memories - SoraWalk&Run_38
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 321
+        width: 22
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb991219c25690220800000000000000
+      internalID: 2452602714167810495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kingdom Hearts Chain of Memories - SoraWalk&Run_39
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 273
+        width: 29
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5820fb7535a16a8d0800000000000000
+      internalID: -2835549970126404987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kingdom Hearts Chain of Memories - SoraWalk&Run_40
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 273
+        width: 25
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80c1788817e691880800000000000000
+      internalID: -8639752976232670200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kingdom Hearts Chain of Memories - SoraWalk&Run_41
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 273
+        width: 22
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1f4b492f67ba1d40800000000000000
+      internalID: 5555954778376982302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kingdom Hearts Chain of Memories - SoraWalk&Run_42
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 273
+        width: 26
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aef7da2c9320bf3d0800000000000000
+      internalID: -3171939065449840662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kingdom Hearts Chain of Memories - SoraWalk&Run_43
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 273
+        width: 29
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7c003ac3d671be30800000000000000
+      internalID: 4517522553231641722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kingdom Hearts Chain of Memories - SoraWalk&Run_44
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 273
+        width: 25
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c7b8e9213bb58d50800000000000000
+      internalID: 6738998237260724161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kingdom Hearts Chain of Memories - SoraWalk&Run_45
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 273
+        width: 22
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4eed320bf2639d5e0800000000000000
+      internalID: -1884415390631338268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kingdom Hearts Chain of Memories - SoraWalk&Run_46
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 273
+        width: 26
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c61f13c6de075830800000000000000
+      internalID: 4059729904657176259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kingdom Hearts Chain of Memories - SoraWalk&Run_47
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 269
+        width: 20
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ca738b4edc6f1d80800000000000000
+      internalID: -8277777888078234936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kingdom Hearts Chain of Memories - SoraWalk&Run_48
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 268
+        width: 22
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02723c2b4e188fba0800000000000000
+      internalID: -6054946879747971296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kingdom Hearts Chain of Memories - SoraWalk&Run_49
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 268
+        width: 24
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04acb429860313a90800000000000000
+      internalID: -7336029092320654784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kingdom Hearts Chain of Memories - SoraWalk&Run_50
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 219
+        width: 22
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3a2b26458838c170800000000000000
+      internalID: 8198865266687027773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kingdom Hearts Chain of Memories - SoraWalk&Run_51
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 217
+        width: 34
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34d9aef85911b3ff0800000000000000
+      internalID: -55431236349682365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kingdom Hearts Chain of Memories - SoraWalk&Run_52
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 168
+        width: 23
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee5b22ac11ea83fc0800000000000000
+      internalID: -3514868117733722642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kingdom Hearts Chain of Memories - SoraWalk&Run_53
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 168
+        width: 29
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94597d5b9fc5ac7b0800000000000000
+      internalID: -5203244191905770167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kingdom Hearts Chain of Memories - SoraWalk&Run_54
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 168
+        width: 24
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: beab64f3541151f70800000000000000
+      internalID: 9157244406439787243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kingdom Hearts Chain of Memories - SoraWalk&Run_55
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 168
+        width: 24
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d234912a439417f0800000000000000
+      internalID: -642726900206914857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kingdom Hearts Chain of Memories - SoraWalk&Run_56
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 168
+        width: 21
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 608edd26a46bcf1e0800000000000000
+      internalID: -2162653290442135546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kingdom Hearts Chain of Memories - SoraWalk&Run_57
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 168
+        width: 24
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 965ec815095d74ea0800000000000000
+      internalID: -5888503171943438999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kingdom Hearts Chain of Memories - SoraWalk&Run_58
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 168
+        width: 24
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eac3ad730b9e0f640800000000000000
+      internalID: 5111842520126078126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kingdom Hearts Chain of Memories - SoraWalk&Run_59
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 168
+        width: 22
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5584bcbcfb79c0ca0800000000000000
+      internalID: -6049293349451773867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kingdom Hearts Chain of Memories - SoraWalk&Run_60
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 161
+        width: 22
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 205414cd0d585bd50800000000000000
+      internalID: 6752450348406883586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kingdom Hearts Chain of Memories - SoraWalk&Run_61
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 160
+        width: 22
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45cdaf9c0965f3200800000000000000
+      internalID: 161943291472567380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kingdom Hearts Chain of Memories - SoraWalk&Run_62
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 114
+        width: 32
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1710a12bc90a23410800000000000000
+      internalID: 1455402224457482609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kingdom Hearts Chain of Memories - SoraWalk&Run_63
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 114
+        width: 27
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5eb22abcd12dc0c70800000000000000
+      internalID: 8938750385835879397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kingdom Hearts Chain of Memories - SoraWalk&Run_64
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 114
+        width: 34
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7336b0ca86c5b8e90800000000000000
+      internalID: -7022417589321374921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kingdom Hearts Chain of Memories - SoraWalk&Run_65
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 114
+        width: 41
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4404513870489b50800000000000000
+      internalID: 6600096138879304783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kingdom Hearts Chain of Memories - SoraWalk&Run_66
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 114
+        width: 32
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf438eebe6a89b160800000000000000
+      internalID: 7041811700624405756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kingdom Hearts Chain of Memories - SoraWalk&Run_67
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 114
+        width: 35
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b95231563de62e480800000000000000
+      internalID: -8871406461753547365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kingdom Hearts Chain of Memories - SoraWalk&Run_68
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 114
+        width: 37
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5592f223f6c2efba0800000000000000
+      internalID: -6053351993044424363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kingdom Hearts Chain of Memories - SoraWalk&Run_69
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 114
+        width: 33
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88918c1f8fcb622b0800000000000000
+      internalID: -5609588508449039992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kingdom Hearts Chain of Memories - SoraWalk&Run_70
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 58
+        width: 25
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99a27b45953bc8150800000000000000
+      internalID: 5876268810066406041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kingdom Hearts Chain of Memories - SoraWalk&Run_71
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 7
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caa23afd4ff222d30800000000000000
+      internalID: 4405136114292304556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kingdom Hearts Chain of Memories - SoraWalk&Run_72
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 7
+        width: 42
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d7af01e50a2bbd10800000000000000
+      internalID: 2142352252483905492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kingdom Hearts Chain of Memories - SoraWalk&Run_73
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 7
+        width: 47
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86ef49ed9c8cde2e0800000000000000
+      internalID: -2094797482309124504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kingdom Hearts Chain of Memories - SoraWalk&Run_74
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 7
+        width: 40
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca2fc97780a786430800000000000000
+      internalID: 3776402464335262380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kingdom Hearts Chain of Memories - SoraWalk&Run_75
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 7
+        width: 31
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39a9cd1f0787caf60800000000000000
+      internalID: 8046939060693670547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kingdom Hearts Chain of Memories - SoraWalk&Run_76
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 7
+        width: 42
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9738ec97ff6b59b20800000000000000
+      internalID: 3140617523537281913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kingdom Hearts Chain of Memories - SoraWalk&Run_77
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 7
+        width: 47
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ef62f0a3a1caf7c0800000000000000
+      internalID: -4036701207460155421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kingdom Hearts Chain of Memories - SoraWalk&Run_78
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 0
+        width: 34
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1de7caec2cd244b20800000000000000
+      internalID: 3117667156761542353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
