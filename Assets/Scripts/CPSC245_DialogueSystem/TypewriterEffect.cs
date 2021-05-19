@@ -3,6 +3,19 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
 
+/*
+ 1.
+ a. Zidane De Cantuaria
+ b. 002325417
+ c. decantuaria@chapman.edu  
+ d. CPSC 245-01
+ e. Final Project - Dialogue System
+ f. This is my own work, and I did not cheat on this assignment.
+  
+1. TypewriterEffect is a class that prints text letter by letter to create a scrolling effect.
+
+*/
+
 public class TypewriterEffect : MonoBehaviour
 {
     [SerializeField] private float writeSpeed = 40f;

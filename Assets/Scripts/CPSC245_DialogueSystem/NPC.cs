@@ -18,7 +18,7 @@ using UnityEngine;
 */
 public class NPC : MonoBehaviour
 {
-    public Conversation conversation;
+    public Conversation Conversation;
 
     private DialogueManager dialogueManager;
     private bool isInteractable;
@@ -37,7 +37,7 @@ public class NPC : MonoBehaviour
             if (Input.GetKeyDown(KeyCode.Space) && isTalking == false)
             {
                 isTalking = true;
-                StartCoroutine(dialogueManager.AdvanceDialogue(conversation));
+                StartCoroutine(dialogueManager.AdvanceDialogue(Conversation));
             }
         }
     }
