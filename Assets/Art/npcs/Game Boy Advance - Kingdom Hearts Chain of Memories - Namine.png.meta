@@ -1,0 +1,2168 @@
+fileFormatVersion: 2
+guid: 34c1c808df340a54382b84d81bdaa9b6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1711145007482703223
+    second: Game Boy Advance - Kingdom Hearts Chain of Memories - Namine_0
+  - first:
+      213: 5219812663893326263
+    second: Game Boy Advance - Kingdom Hearts Chain of Memories - Namine_1
+  - first:
+      213: 1645490558769652531
+    second: Game Boy Advance - Kingdom Hearts Chain of Memories - Namine_2
+  - first:
+      213: -8293444747195049030
+    second: Game Boy Advance - Kingdom Hearts Chain of Memories - Namine_3
+  - first:
+      213: 4068566619496578382
+    second: Game Boy Advance - Kingdom Hearts Chain of Memories - Namine_4
+  - first:
+      213: -2979014473394309551
+    second: Game Boy Advance - Kingdom Hearts Chain of Memories - Namine_5
+  - first:
+      213: 6092957915874212792
+    second: Game Boy Advance - Kingdom Hearts Chain of Memories - Namine_6
+  - first:
+      213: 1220295605630920387
+    second: Game Boy Advance - Kingdom Hearts Chain of Memories - Namine_7
+  - first:
+      213: 441249033316781763
+    second: Game Boy Advance - Kingdom Hearts Chain of Memories - Namine_8
+  - first:
+      213: 8884230511367440721
+    second: Game Boy Advance - Kingdom Hearts Chain of Memories - Namine_9
+  - first:
+      213: -6152279336860660110
+    second: Game Boy Advance - Kingdom Hearts Chain of Memories - Namine_10
+  - first:
+      213: -314251056204156236
+    second: Game Boy Advance - Kingdom Hearts Chain of Memories - Namine_11
+  - first:
+      213: -8227661276055386509
+    second: Game Boy Advance - Kingdom Hearts Chain of Memories - Namine_12
+  - first:
+      213: 6663014850725814025
+    second: Game Boy Advance - Kingdom Hearts Chain of Memories - Namine_13
+  - first:
+      213: -3957768531313933109
+    second: Game Boy Advance - Kingdom Hearts Chain of Memories - Namine_14
+  - first:
+      213: 6674280306382844500
+    second: Game Boy Advance - Kingdom Hearts Chain of Memories - Namine_15
+  - first:
+      213: 8725948148852758886
+    second: Game Boy Advance - Kingdom Hearts Chain of Memories - Namine_16
+  - first:
+      213: -8209907062258921627
+    second: Game Boy Advance - Kingdom Hearts Chain of Memories - Namine_17
+  - first:
+      213: 8684130365407402703
+    second: Game Boy Advance - Kingdom Hearts Chain of Memories - Namine_18
+  - first:
+      213: 6987951903302378055
+    second: Game Boy Advance - Kingdom Hearts Chain of Memories - Namine_19
+  - first:
+      213: 902872050984978615
+    second: Game Boy Advance - Kingdom Hearts Chain of Memories - Namine_20
+  - first:
+      213: 7905370554353639529
+    second: Game Boy Advance - Kingdom Hearts Chain of Memories - Namine_21
+  - first:
+      213: 8525834325837285654
+    second: Game Boy Advance - Kingdom Hearts Chain of Memories - Namine_22
+  - first:
+      213: -6293524572184633347
+    second: Game Boy Advance - Kingdom Hearts Chain of Memories - Namine_23
+  - first:
+      213: 757720044324841694
+    second: Game Boy Advance - Kingdom Hearts Chain of Memories - Namine_24
+  - first:
+      213: 5666202344889867489
+    second: Game Boy Advance - Kingdom Hearts Chain of Memories - Namine_25
+  - first:
+      213: 3866605215166690309
+    second: Game Boy Advance - Kingdom Hearts Chain of Memories - Namine_26
+  - first:
+      213: 2819440173715844535
+    second: Game Boy Advance - Kingdom Hearts Chain of Memories - Namine_27
+  - first:
+      213: 7773747756896602323
+    second: Game Boy Advance - Kingdom Hearts Chain of Memories - Namine_28
+  - first:
+      213: -5180538493893948830
+    second: Game Boy Advance - Kingdom Hearts Chain of Memories - Namine_29
+  - first:
+      213: -7491831874183021692
+    second: Game Boy Advance - Kingdom Hearts Chain of Memories - Namine_30
+  - first:
+      213: -7811304421359921786
+    second: Game Boy Advance - Kingdom Hearts Chain of Memories - Namine_31
+  - first:
+      213: -3140570120692553907
+    second: Game Boy Advance - Kingdom Hearts Chain of Memories - Namine_32
+  - first:
+      213: -8246620584775654131
+    second: Game Boy Advance - Kingdom Hearts Chain of Memories - Namine_33
+  - first:
+      213: 2720610634295971541
+    second: Game Boy Advance - Kingdom Hearts Chain of Memories - Namine_34
+  - first:
+      213: -4875642544612167285
+    second: Game Boy Advance - Kingdom Hearts Chain of Memories - Namine_35
+  - first:
+      213: 2194089092021398363
+    second: Game Boy Advance - Kingdom Hearts Chain of Memories - Namine_36
+  - first:
+      213: -6421676815033353499
+    second: Game Boy Advance - Kingdom Hearts Chain of Memories - Namine_37
+  - first:
+      213: 6243927993002583012
+    second: Game Boy Advance - Kingdom Hearts Chain of Memories - Namine_38
+  - first:
+      213: -4816326920311479189
+    second: Game Boy Advance - Kingdom Hearts Chain of Memories - Namine_39
+  - first:
+      213: -3239629659261569035
+    second: Game Boy Advance - Kingdom Hearts Chain of Memories - Namine_40
+  - first:
+      213: 7050055179629968106
+    second: Game Boy Advance - Kingdom Hearts Chain of Memories - Namine_41
+  - first:
+      213: -4839145394464508518
+    second: Game Boy Advance - Kingdom Hearts Chain of Memories - Namine_42
+  - first:
+      213: -5468959780877650097
+    second: Game Boy Advance - Kingdom Hearts Chain of Memories - Namine_43
+  - first:
+      213: -7312833845724443191
+    second: Game Boy Advance - Kingdom Hearts Chain of Memories - Namine_44
+  - first:
+      213: -8287109729338606020
+    second: Game Boy Advance - Kingdom Hearts Chain of Memories - Namine_45
+  - first:
+      213: 854285111596808839
+    second: Game Boy Advance - Kingdom Hearts Chain of Memories - Namine_46
+  - first:
+      213: 2538350991468295125
+    second: Game Boy Advance - Kingdom Hearts Chain of Memories - Namine_47
+  - first:
+      213: -8423701826730501564
+    second: Game Boy Advance - Kingdom Hearts Chain of Memories - Namine_48
+  - first:
+      213: -6782732391702739116
+    second: Game Boy Advance - Kingdom Hearts Chain of Memories - Namine_49
+  - first:
+      213: -6818090417992690386
+    second: Game Boy Advance - Kingdom Hearts Chain of Memories - Namine_50
+  - first:
+      213: -6390959589584123789
+    second: Game Boy Advance - Kingdom Hearts Chain of Memories - Namine_51
+  - first:
+      213: 1104495825420697589
+    second: Game Boy Advance - Kingdom Hearts Chain of Memories - Namine_52
+  - first:
+      213: -8415703750546156326
+    second: Game Boy Advance - Kingdom Hearts Chain of Memories - Namine_53
+  - first:
+      213: 5001065184708528528
+    second: Game Boy Advance - Kingdom Hearts Chain of Memories - Namine_54
+  - first:
+      213: 4232293480950437402
+    second: Game Boy Advance - Kingdom Hearts Chain of Memories - Namine_55
+  - first:
+      213: 6255760627242340956
+    second: Game Boy Advance - Kingdom Hearts Chain of Memories - Namine_56
+  - first:
+      213: -7577990638770524471
+    second: Game Boy Advance - Kingdom Hearts Chain of Memories - Namine_57
+  - first:
+      213: 1417455783483249377
+    second: Game Boy Advance - Kingdom Hearts Chain of Memories - Namine_58
+  - first:
+      213: -8511161425664121678
+    second: Game Boy Advance - Kingdom Hearts Chain of Memories - Namine_59
+  - first:
+      213: 485720851722245491
+    second: Game Boy Advance - Kingdom Hearts Chain of Memories - Namine_60
+  - first:
+      213: -1107936544396820392
+    second: Game Boy Advance - Kingdom Hearts Chain of Memories - Namine_61
+  - first:
+      213: 8968795783219253805
+    second: Game Boy Advance - Kingdom Hearts Chain of Memories - Namine_62
+  - first:
+      213: -5316012843086490286
+    second: Game Boy Advance - Kingdom Hearts Chain of Memories - Namine_63
+  - first:
+      213: -4194228974960104779
+    second: Game Boy Advance - Kingdom Hearts Chain of Memories - Namine_64
+  - first:
+      213: -9019733128505461582
+    second: Game Boy Advance - Kingdom Hearts Chain of Memories - Namine_65
+  - first:
+      213: -2148702229795385754
+    second: Game Boy Advance - Kingdom Hearts Chain of Memories - Namine_66
+  - first:
+      213: -841732964092784513
+    second: Game Boy Advance - Kingdom Hearts Chain of Memories - Namine_67
+  - first:
+      213: -5262303378591685121
+    second: Game Boy Advance - Kingdom Hearts Chain of Memories - Namine_68
+  - first:
+      213: -5549917308614759645
+    second: Game Boy Advance - Kingdom Hearts Chain of Memories - Namine_69
+  - first:
+      213: 6760647089258426150
+    second: Game Boy Advance - Kingdom Hearts Chain of Memories - Namine_70
+  - first:
+      213: -8219614435604623304
+    second: Game Boy Advance - Kingdom Hearts Chain of Memories - Namine_71
+  - first:
+      213: 8304732571908979909
+    second: Game Boy Advance - Kingdom Hearts Chain of Memories - Namine_72
+  - first:
+      213: 5116102431288344158
+    second: Game Boy Advance - Kingdom Hearts Chain of Memories - Namine_73
+  - first:
+      213: 3173293424579392053
+    second: Game Boy Advance - Kingdom Hearts Chain of Memories - Namine_74
+  - first:
+      213: 302145424634111591
+    second: Game Boy Advance - Kingdom Hearts Chain of Memories - Namine_75
+  - first:
+      213: -6596080089393781167
+    second: Game Boy Advance - Kingdom Hearts Chain of Memories - Namine_76
+  - first:
+      213: -324209652785012370
+    second: Game Boy Advance - Kingdom Hearts Chain of Memories - Namine_77
+  - first:
+      213: 815342028861278535
+    second: Game Boy Advance - Kingdom Hearts Chain of Memories - Namine_78
+  - first:
+      213: -516745841786379550
+    second: Game Boy Advance - Kingdom Hearts Chain of Memories - Namine_79
+  - first:
+      213: 2060349740731387737
+    second: Game Boy Advance - Kingdom Hearts Chain of Memories - Namine_80
+  - first:
+      213: -5968327075083223892
+    second: Game Boy Advance - Kingdom Hearts Chain of Memories - Namine_81
+  - first:
+      213: -5593142363159330253
+    second: Game Boy Advance - Kingdom Hearts Chain of Memories - Namine_82
+  - first:
+      213: -6630865538249902599
+    second: Game Boy Advance - Kingdom Hearts Chain of Memories - Namine_83
+  - first:
+      213: 6583444305095593504
+    second: Game Boy Advance - Kingdom Hearts Chain of Memories - Namine_84
+  - first:
+      213: -5986476944508126523
+    second: Game Boy Advance - Kingdom Hearts Chain of Memories - Namine_85
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Game Boy Advance - Kingdom Hearts Chain of Memories - Namine_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 644
+        width: 31
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77d803a71553fb710800000000000000
+      internalID: 1711145007482703223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kingdom Hearts Chain of Memories - Namine_1
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 644
+        width: 31
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b9727946ff707840800000000000000
+      internalID: 5219812663893326263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kingdom Hearts Chain of Memories - Namine_2
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 644
+        width: 31
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33369bce1f4f5d610800000000000000
+      internalID: 1645490558769652531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kingdom Hearts Chain of Memories - Namine_3
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 644
+        width: 26
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abb1c1761f3c7ec80800000000000000
+      internalID: -8293444747195049030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kingdom Hearts Chain of Memories - Namine_4
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 644
+        width: 26
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4dfa14c8c3767830800000000000000
+      internalID: 4068566619496578382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kingdom Hearts Chain of Memories - Namine_5
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 644
+        width: 26
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 156b594be1a68a6d0800000000000000
+      internalID: -2979014473394309551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kingdom Hearts Chain of Memories - Namine_6
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 615
+        width: 60
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bb361f41f88e8450800000000000000
+      internalID: 6092957915874212792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kingdom Hearts Chain of Memories - Namine_7
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 615
+        width: 60
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c6e99e436c5fe010800000000000000
+      internalID: 1220295605630920387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kingdom Hearts Chain of Memories - Namine_8
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 615
+        width: 60
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cec45078a1af1600800000000000000
+      internalID: 441249033316781763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kingdom Hearts Chain of Memories - Namine_9
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 615
+        width: 60
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1594eb454902b4b70800000000000000
+      internalID: 8884230511367440721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kingdom Hearts Chain of Memories - Namine_10
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 615
+        width: 60
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27ec17f0a86be9aa0800000000000000
+      internalID: -6152279336860660110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kingdom Hearts Chain of Memories - Namine_11
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 581
+        width: 31
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b2f8a0545e83abf0800000000000000
+      internalID: -314251056204156236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kingdom Hearts Chain of Memories - Namine_12
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 581
+        width: 36
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3764b7459a971dd80800000000000000
+      internalID: -8227661276055386509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kingdom Hearts Chain of Memories - Namine_13
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 581
+        width: 32
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90f1aae54b8c77c50800000000000000
+      internalID: 6663014850725814025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kingdom Hearts Chain of Memories - Namine_14
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 581
+        width: 31
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc440db6d7e2319c0800000000000000
+      internalID: -3957768531313933109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kingdom Hearts Chain of Memories - Namine_15
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 581
+        width: 34
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 452b559a39ecf9c50800000000000000
+      internalID: 6674280306382844500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kingdom Hearts Chain of Memories - Namine_16
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 530
+        width: 60
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66998dcfb9bc81970800000000000000
+      internalID: 8725948148852758886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kingdom Hearts Chain of Memories - Namine_17
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 530
+        width: 60
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56f061b560d801e80800000000000000
+      internalID: -8209907062258921627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kingdom Hearts Chain of Memories - Namine_18
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 530
+        width: 60
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fca9a4d8e8a348870800000000000000
+      internalID: 8684130365407402703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kingdom Hearts Chain of Memories - Namine_19
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 521
+        width: 45
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7426ad77b313af060800000000000000
+      internalID: 6987951903302378055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kingdom Hearts Chain of Memories - Namine_20
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 521
+        width: 26
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b88694c855a78c00800000000000000
+      internalID: 902872050984978615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kingdom Hearts Chain of Memories - Namine_21
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 521
+        width: 26
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 960e41e72a485bd60800000000000000
+      internalID: 7905370554353639529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kingdom Hearts Chain of Memories - Namine_22
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 521
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6190d55c529d15670800000000000000
+      internalID: 8525834325837285654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kingdom Hearts Chain of Memories - Namine_23
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 521
+        width: 26
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dff1eb10fb8e8a8a0800000000000000
+      internalID: -6293524572184633347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kingdom Hearts Chain of Memories - Namine_24
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 469
+        width: 26
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed8ec21ad56f38a00800000000000000
+      internalID: 757720044324841694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kingdom Hearts Chain of Memories - Namine_25
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 469
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ec55a8030562ae40800000000000000
+      internalID: 5666202344889867489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kingdom Hearts Chain of Memories - Namine_26
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 469
+        width: 30
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 504fea005f0f8a530800000000000000
+      internalID: 3866605215166690309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kingdom Hearts Chain of Memories - Namine_27
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 469
+        width: 26
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bd6cc366e9a02720800000000000000
+      internalID: 2819440173715844535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kingdom Hearts Chain of Memories - Namine_28
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 469
+        width: 26
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d8cf47d566e1eb60800000000000000
+      internalID: 7773747756896602323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kingdom Hearts Chain of Memories - Namine_29
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 441
+        width: 60
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26ac63effa70b18b0800000000000000
+      internalID: -5180538493893948830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kingdom Hearts Chain of Memories - Namine_30
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 441
+        width: 60
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48b3f569a9aa70890800000000000000
+      internalID: -7491831874183021692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kingdom Hearts Chain of Memories - Namine_31
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 444
+        width: 60
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 685576cc30ca89390800000000000000
+      internalID: -7811304421359921786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kingdom Hearts Chain of Memories - Namine_32
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 441
+        width: 60
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d472aeb5d147a64d0800000000000000
+      internalID: -3140570120692553907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kingdom Hearts Chain of Memories - Namine_33
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 441
+        width: 60
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d05e507454e1e8d80800000000000000
+      internalID: -8246620584775654131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kingdom Hearts Chain of Memories - Namine_34
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 408
+        width: 26
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5de8c5d15fc81c520800000000000000
+      internalID: 2720610634295971541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kingdom Hearts Chain of Memories - Namine_35
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 408
+        width: 26
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b813c9c10fc365cb0800000000000000
+      internalID: -4875642544612167285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kingdom Hearts Chain of Memories - Namine_36
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 408
+        width: 26
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5bae778768f27e10800000000000000
+      internalID: 2194089092021398363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kingdom Hearts Chain of Memories - Namine_37
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 408
+        width: 26
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ea3391d5fe91e6a0800000000000000
+      internalID: -6421676815033353499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kingdom Hearts Chain of Memories - Namine_38
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 408
+        width: 26
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e3690a8d63e6a650800000000000000
+      internalID: 6243927993002583012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kingdom Hearts Chain of Memories - Namine_39
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 352
+        width: 60
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b64eea81f28f82db0800000000000000
+      internalID: -4816326920311479189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kingdom Hearts Chain of Memories - Namine_40
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 353
+        width: 60
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f7f4eb3df58a03d0800000000000000
+      internalID: -3239629659261569035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kingdom Hearts Chain of Memories - Namine_41
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 352
+        width: 60
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aea3fb445d3d6d160800000000000000
+      internalID: 7050055179629968106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kingdom Hearts Chain of Memories - Namine_42
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 350
+        width: 26
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a95b97217e6e7dcb0800000000000000
+      internalID: -4839145394464508518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kingdom Hearts Chain of Memories - Namine_43
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 350
+        width: 26
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f47b3e91e0a5a14b0800000000000000
+      internalID: -5468959780877650097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kingdom Hearts Chain of Memories - Namine_44
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 350
+        width: 27
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cd0424cc58938a90800000000000000
+      internalID: -7312833845724443191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kingdom Hearts Chain of Memories - Namine_45
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 350
+        width: 28
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3eb610bb954efc80800000000000000
+      internalID: -8287109729338606020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kingdom Hearts Chain of Memories - Namine_46
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 298
+        width: 26
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78af1a568c70bdb00800000000000000
+      internalID: 854285111596808839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kingdom Hearts Chain of Memories - Namine_47
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 298
+        width: 26
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d37ab927c80a3320800000000000000
+      internalID: 2538350991468295125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kingdom Hearts Chain of Memories - Namine_48
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 298
+        width: 26
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44a5bebb1dff81b80800000000000000
+      internalID: -8423701826730501564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kingdom Hearts Chain of Memories - Namine_49
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 262
+        width: 60
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 457c50283d4eed1a0800000000000000
+      internalID: -6782732391702739116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kingdom Hearts Chain of Memories - Namine_50
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 262
+        width: 60
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e251d0d73e64161a0800000000000000
+      internalID: -6818090417992690386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kingdom Hearts Chain of Memories - Namine_51
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 262
+        width: 60
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37846f03d10ce47a0800000000000000
+      internalID: -6390959589584123789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kingdom Hearts Chain of Memories - Namine_52
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 262
+        width: 60
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ff3a12f915f35f00800000000000000
+      internalID: 1104495825420697589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kingdom Hearts Chain of Memories - Namine_53
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 262
+        width: 60
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad416c5f60a653b80800000000000000
+      internalID: -8415703750546156326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kingdom Hearts Chain of Memories - Namine_54
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 240
+        width: 26
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0990029e94a576540800000000000000
+      internalID: 5001065184708528528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kingdom Hearts Chain of Memories - Namine_55
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 240
+        width: 26
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a16904d4f702cba30800000000000000
+      internalID: 4232293480950437402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kingdom Hearts Chain of Memories - Namine_56
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 240
+        width: 29
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5297a2652de0d650800000000000000
+      internalID: 6255760627242340956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kingdom Hearts Chain of Memories - Namine_57
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 171
+        width: 60
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cee8d8f9a195d690800000000000000
+      internalID: -7577990638770524471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kingdom Hearts Chain of Memories - Namine_58
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 171
+        width: 60
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e2975b6680dba310800000000000000
+      internalID: 1417455783483249377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kingdom Hearts Chain of Memories - Namine_59
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 171
+        width: 60
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b4684507c742e980800000000000000
+      internalID: -8511161425664121678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kingdom Hearts Chain of Memories - Namine_60
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 169
+        width: 60
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37597ea8a80adb600800000000000000
+      internalID: 485720851722245491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kingdom Hearts Chain of Memories - Namine_61
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 169
+        width: 60
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 850cd8d3591df90f0800000000000000
+      internalID: -1107936544396820392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kingdom Hearts Chain of Memories - Namine_62
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 189
+        width: 27
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d221ec10f30977c70800000000000000
+      internalID: 8968795783219253805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kingdom Hearts Chain of Memories - Namine_63
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 189
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2555a621c7ab936b0800000000000000
+      internalID: -5316012843086490286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kingdom Hearts Chain of Memories - Namine_64
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 189
+        width: 31
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ba2ad028fa1bc5c0800000000000000
+      internalID: -4194228974960104779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kingdom Hearts Chain of Memories - Namine_65
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 189
+        width: 33
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b4fb9a128873d280800000000000000
+      internalID: -9019733128505461582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kingdom Hearts Chain of Memories - Namine_66
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 189
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66ec4f0d4b64e22e0800000000000000
+      internalID: -2148702229795385754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kingdom Hearts Chain of Memories - Namine_67
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 136
+        width: 30
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f70538f24509154f0800000000000000
+      internalID: -841732964092784513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kingdom Hearts Chain of Memories - Namine_68
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 136
+        width: 30
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff564b245fa88f6b0800000000000000
+      internalID: -5262303378591685121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kingdom Hearts Chain of Memories - Namine_69
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 136
+        width: 30
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32ba93fcc9bbaf2b0800000000000000
+      internalID: -5549917308614759645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kingdom Hearts Chain of Memories - Namine_70
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 137
+        width: 26
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62fe60f45b4a2dd50800000000000000
+      internalID: 6760647089258426150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kingdom Hearts Chain of Memories - Namine_71
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 74
+        width: 26
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8301d1f58301eed80800000000000000
+      internalID: -8219614435604623304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kingdom Hearts Chain of Memories - Namine_72
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 73
+        width: 31
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cc30471646504370800000000000000
+      internalID: 8304732571908979909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kingdom Hearts Chain of Memories - Namine_73
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 75
+        width: 27
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5e34731e0c000740800000000000000
+      internalID: 5116102431288344158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kingdom Hearts Chain of Memories - Namine_74
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 78
+        width: 26
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 532332c8e8dc90c20800000000000000
+      internalID: 3173293424579392053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kingdom Hearts Chain of Memories - Namine_75
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 76
+        width: 27
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76663d1b9af613400800000000000000
+      internalID: 302145424634111591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kingdom Hearts Chain of Memories - Namine_76
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 78
+        width: 29
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15628a13b140674a0800000000000000
+      internalID: -6596080089393781167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kingdom Hearts Chain of Memories - Namine_77
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 78
+        width: 26
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e612ffcd90d208bf0800000000000000
+      internalID: -324209652785012370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kingdom Hearts Chain of Memories - Namine_78
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 80
+        width: 26
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74909b0614da05b00800000000000000
+      internalID: 815342028861278535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kingdom Hearts Chain of Memories - Namine_79
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 5
+        width: 26
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e2a92d056624d8f0800000000000000
+      internalID: -516745841786379550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kingdom Hearts Chain of Memories - Namine_80
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 14
+        width: 27
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95fcc594c25d79c10800000000000000
+      internalID: 2060349740731387737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kingdom Hearts Chain of Memories - Namine_81
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 6
+        width: 26
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cac7152952e3c2da0800000000000000
+      internalID: -5968327075083223892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kingdom Hearts Chain of Memories - Namine_82
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 15
+        width: 27
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33203b987aa2162b0800000000000000
+      internalID: -5593142363159330253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kingdom Hearts Chain of Memories - Namine_83
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 6
+        width: 48
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f53c3fbcee6af3a0800000000000000
+      internalID: -6630865538249902599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kingdom Hearts Chain of Memories - Namine_84
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 7
+        width: 48
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02e8ac307b71d5b50800000000000000
+      internalID: 6583444305095593504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kingdom Hearts Chain of Memories - Namine_85
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 9
+        width: 210
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5caf68acfe2cbeca0800000000000000
+      internalID: -5986476944508126523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

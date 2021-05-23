@@ -1,0 +1,4328 @@
+fileFormatVersion: 2
+guid: 00477b093b2c370429325cad6db96c35
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7387761901819802321
+    second: kingdom_hearts_com_fixed_cloud_sprite_sheet_by_enteithehedgehog_d6yqlce_0
+  - first:
+      213: 8521721559950732288
+    second: kingdom_hearts_com_fixed_cloud_sprite_sheet_by_enteithehedgehog_d6yqlce_1
+  - first:
+      213: 6658805575711444233
+    second: kingdom_hearts_com_fixed_cloud_sprite_sheet_by_enteithehedgehog_d6yqlce_2
+  - first:
+      213: -2960047870988925652
+    second: kingdom_hearts_com_fixed_cloud_sprite_sheet_by_enteithehedgehog_d6yqlce_3
+  - first:
+      213: -2183298581229053931
+    second: kingdom_hearts_com_fixed_cloud_sprite_sheet_by_enteithehedgehog_d6yqlce_4
+  - first:
+      213: 2252636510434960280
+    second: kingdom_hearts_com_fixed_cloud_sprite_sheet_by_enteithehedgehog_d6yqlce_5
+  - first:
+      213: 2309486078640683588
+    second: kingdom_hearts_com_fixed_cloud_sprite_sheet_by_enteithehedgehog_d6yqlce_6
+  - first:
+      213: 1689911573850577180
+    second: kingdom_hearts_com_fixed_cloud_sprite_sheet_by_enteithehedgehog_d6yqlce_7
+  - first:
+      213: 351717538247852349
+    second: kingdom_hearts_com_fixed_cloud_sprite_sheet_by_enteithehedgehog_d6yqlce_8
+  - first:
+      213: 290135156541848849
+    second: kingdom_hearts_com_fixed_cloud_sprite_sheet_by_enteithehedgehog_d6yqlce_9
+  - first:
+      213: -4844951900085573049
+    second: kingdom_hearts_com_fixed_cloud_sprite_sheet_by_enteithehedgehog_d6yqlce_10
+  - first:
+      213: -1244586291156801091
+    second: kingdom_hearts_com_fixed_cloud_sprite_sheet_by_enteithehedgehog_d6yqlce_11
+  - first:
+      213: -1316930394774564339
+    second: kingdom_hearts_com_fixed_cloud_sprite_sheet_by_enteithehedgehog_d6yqlce_12
+  - first:
+      213: -5524406234258726777
+    second: kingdom_hearts_com_fixed_cloud_sprite_sheet_by_enteithehedgehog_d6yqlce_13
+  - first:
+      213: -7178427112964384486
+    second: kingdom_hearts_com_fixed_cloud_sprite_sheet_by_enteithehedgehog_d6yqlce_14
+  - first:
+      213: -7869375877797987234
+    second: kingdom_hearts_com_fixed_cloud_sprite_sheet_by_enteithehedgehog_d6yqlce_15
+  - first:
+      213: -3402710709185559545
+    second: kingdom_hearts_com_fixed_cloud_sprite_sheet_by_enteithehedgehog_d6yqlce_16
+  - first:
+      213: -4066205178171608490
+    second: kingdom_hearts_com_fixed_cloud_sprite_sheet_by_enteithehedgehog_d6yqlce_17
+  - first:
+      213: -1456911600646425637
+    second: kingdom_hearts_com_fixed_cloud_sprite_sheet_by_enteithehedgehog_d6yqlce_18
+  - first:
+      213: 8129795647366275895
+    second: kingdom_hearts_com_fixed_cloud_sprite_sheet_by_enteithehedgehog_d6yqlce_19
+  - first:
+      213: -5736498396742635445
+    second: kingdom_hearts_com_fixed_cloud_sprite_sheet_by_enteithehedgehog_d6yqlce_20
+  - first:
+      213: 3471924738444973285
+    second: kingdom_hearts_com_fixed_cloud_sprite_sheet_by_enteithehedgehog_d6yqlce_21
+  - first:
+      213: -7809522540301364625
+    second: kingdom_hearts_com_fixed_cloud_sprite_sheet_by_enteithehedgehog_d6yqlce_22
+  - first:
+      213: 9154499413537810469
+    second: kingdom_hearts_com_fixed_cloud_sprite_sheet_by_enteithehedgehog_d6yqlce_23
+  - first:
+      213: 4592064723731915457
+    second: kingdom_hearts_com_fixed_cloud_sprite_sheet_by_enteithehedgehog_d6yqlce_24
+  - first:
+      213: 2650201785523274813
+    second: kingdom_hearts_com_fixed_cloud_sprite_sheet_by_enteithehedgehog_d6yqlce_25
+  - first:
+      213: 7135984536759021388
+    second: kingdom_hearts_com_fixed_cloud_sprite_sheet_by_enteithehedgehog_d6yqlce_26
+  - first:
+      213: -66997871735033463
+    second: kingdom_hearts_com_fixed_cloud_sprite_sheet_by_enteithehedgehog_d6yqlce_27
+  - first:
+      213: -2462260384482849042
+    second: kingdom_hearts_com_fixed_cloud_sprite_sheet_by_enteithehedgehog_d6yqlce_28
+  - first:
+      213: 4665331283077923516
+    second: kingdom_hearts_com_fixed_cloud_sprite_sheet_by_enteithehedgehog_d6yqlce_29
+  - first:
+      213: -1609605605859379124
+    second: kingdom_hearts_com_fixed_cloud_sprite_sheet_by_enteithehedgehog_d6yqlce_30
+  - first:
+      213: 293644822514225869
+    second: kingdom_hearts_com_fixed_cloud_sprite_sheet_by_enteithehedgehog_d6yqlce_31
+  - first:
+      213: -1609425729048859939
+    second: kingdom_hearts_com_fixed_cloud_sprite_sheet_by_enteithehedgehog_d6yqlce_32
+  - first:
+      213: -7755402412476644441
+    second: kingdom_hearts_com_fixed_cloud_sprite_sheet_by_enteithehedgehog_d6yqlce_33
+  - first:
+      213: -5125886000880875595
+    second: kingdom_hearts_com_fixed_cloud_sprite_sheet_by_enteithehedgehog_d6yqlce_34
+  - first:
+      213: -36531054651562574
+    second: kingdom_hearts_com_fixed_cloud_sprite_sheet_by_enteithehedgehog_d6yqlce_35
+  - first:
+      213: 9207174860977903787
+    second: kingdom_hearts_com_fixed_cloud_sprite_sheet_by_enteithehedgehog_d6yqlce_36
+  - first:
+      213: -814018145229433167
+    second: kingdom_hearts_com_fixed_cloud_sprite_sheet_by_enteithehedgehog_d6yqlce_37
+  - first:
+      213: -2594971776999894709
+    second: kingdom_hearts_com_fixed_cloud_sprite_sheet_by_enteithehedgehog_d6yqlce_38
+  - first:
+      213: -4932029664362626345
+    second: kingdom_hearts_com_fixed_cloud_sprite_sheet_by_enteithehedgehog_d6yqlce_39
+  - first:
+      213: 209826985661521270
+    second: kingdom_hearts_com_fixed_cloud_sprite_sheet_by_enteithehedgehog_d6yqlce_40
+  - first:
+      213: -1576822653140687566
+    second: kingdom_hearts_com_fixed_cloud_sprite_sheet_by_enteithehedgehog_d6yqlce_41
+  - first:
+      213: -5909188480849796730
+    second: kingdom_hearts_com_fixed_cloud_sprite_sheet_by_enteithehedgehog_d6yqlce_42
+  - first:
+      213: 1411013190438367195
+    second: kingdom_hearts_com_fixed_cloud_sprite_sheet_by_enteithehedgehog_d6yqlce_43
+  - first:
+      213: -2324347617767305886
+    second: kingdom_hearts_com_fixed_cloud_sprite_sheet_by_enteithehedgehog_d6yqlce_44
+  - first:
+      213: -8060262501924268787
+    second: kingdom_hearts_com_fixed_cloud_sprite_sheet_by_enteithehedgehog_d6yqlce_45
+  - first:
+      213: -8486609014076055459
+    second: kingdom_hearts_com_fixed_cloud_sprite_sheet_by_enteithehedgehog_d6yqlce_46
+  - first:
+      213: -2486210249608390109
+    second: kingdom_hearts_com_fixed_cloud_sprite_sheet_by_enteithehedgehog_d6yqlce_47
+  - first:
+      213: -1668700844703674743
+    second: kingdom_hearts_com_fixed_cloud_sprite_sheet_by_enteithehedgehog_d6yqlce_48
+  - first:
+      213: -7763971242550557723
+    second: kingdom_hearts_com_fixed_cloud_sprite_sheet_by_enteithehedgehog_d6yqlce_49
+  - first:
+      213: 2061791838748581995
+    second: kingdom_hearts_com_fixed_cloud_sprite_sheet_by_enteithehedgehog_d6yqlce_50
+  - first:
+      213: 7753175267392852710
+    second: kingdom_hearts_com_fixed_cloud_sprite_sheet_by_enteithehedgehog_d6yqlce_51
+  - first:
+      213: -8454667157763792004
+    second: kingdom_hearts_com_fixed_cloud_sprite_sheet_by_enteithehedgehog_d6yqlce_52
+  - first:
+      213: -2772416383482925869
+    second: kingdom_hearts_com_fixed_cloud_sprite_sheet_by_enteithehedgehog_d6yqlce_53
+  - first:
+      213: -4572386104808297995
+    second: kingdom_hearts_com_fixed_cloud_sprite_sheet_by_enteithehedgehog_d6yqlce_54
+  - first:
+      213: 6413802233762707555
+    second: kingdom_hearts_com_fixed_cloud_sprite_sheet_by_enteithehedgehog_d6yqlce_55
+  - first:
+      213: -6702736913266281803
+    second: kingdom_hearts_com_fixed_cloud_sprite_sheet_by_enteithehedgehog_d6yqlce_56
+  - first:
+      213: -8163713098479142
+    second: kingdom_hearts_com_fixed_cloud_sprite_sheet_by_enteithehedgehog_d6yqlce_57
+  - first:
+      213: 2032912787026321053
+    second: kingdom_hearts_com_fixed_cloud_sprite_sheet_by_enteithehedgehog_d6yqlce_58
+  - first:
+      213: -4932414841962840850
+    second: kingdom_hearts_com_fixed_cloud_sprite_sheet_by_enteithehedgehog_d6yqlce_59
+  - first:
+      213: -3395222749080594628
+    second: kingdom_hearts_com_fixed_cloud_sprite_sheet_by_enteithehedgehog_d6yqlce_60
+  - first:
+      213: 5383214241316855035
+    second: kingdom_hearts_com_fixed_cloud_sprite_sheet_by_enteithehedgehog_d6yqlce_61
+  - first:
+      213: -8794674409146158399
+    second: kingdom_hearts_com_fixed_cloud_sprite_sheet_by_enteithehedgehog_d6yqlce_62
+  - first:
+      213: -7992404535696802847
+    second: kingdom_hearts_com_fixed_cloud_sprite_sheet_by_enteithehedgehog_d6yqlce_63
+  - first:
+      213: -7826266443786092710
+    second: kingdom_hearts_com_fixed_cloud_sprite_sheet_by_enteithehedgehog_d6yqlce_64
+  - first:
+      213: -5315396088039497900
+    second: kingdom_hearts_com_fixed_cloud_sprite_sheet_by_enteithehedgehog_d6yqlce_65
+  - first:
+      213: 3855998288291239459
+    second: kingdom_hearts_com_fixed_cloud_sprite_sheet_by_enteithehedgehog_d6yqlce_66
+  - first:
+      213: 2059417117109568426
+    second: kingdom_hearts_com_fixed_cloud_sprite_sheet_by_enteithehedgehog_d6yqlce_67
+  - first:
+      213: -5665157685588640146
+    second: kingdom_hearts_com_fixed_cloud_sprite_sheet_by_enteithehedgehog_d6yqlce_68
+  - first:
+      213: -7003000370399887091
+    second: kingdom_hearts_com_fixed_cloud_sprite_sheet_by_enteithehedgehog_d6yqlce_69
+  - first:
+      213: 4319910376923195398
+    second: kingdom_hearts_com_fixed_cloud_sprite_sheet_by_enteithehedgehog_d6yqlce_70
+  - first:
+      213: 8814322551682506538
+    second: kingdom_hearts_com_fixed_cloud_sprite_sheet_by_enteithehedgehog_d6yqlce_71
+  - first:
+      213: -7382958572836937766
+    second: kingdom_hearts_com_fixed_cloud_sprite_sheet_by_enteithehedgehog_d6yqlce_72
+  - first:
+      213: 7305102158356653839
+    second: kingdom_hearts_com_fixed_cloud_sprite_sheet_by_enteithehedgehog_d6yqlce_73
+  - first:
+      213: 4661018569698297999
+    second: kingdom_hearts_com_fixed_cloud_sprite_sheet_by_enteithehedgehog_d6yqlce_74
+  - first:
+      213: 7054257171987020581
+    second: kingdom_hearts_com_fixed_cloud_sprite_sheet_by_enteithehedgehog_d6yqlce_75
+  - first:
+      213: -7674651518481710338
+    second: kingdom_hearts_com_fixed_cloud_sprite_sheet_by_enteithehedgehog_d6yqlce_76
+  - first:
+      213: -5520036591339880832
+    second: kingdom_hearts_com_fixed_cloud_sprite_sheet_by_enteithehedgehog_d6yqlce_77
+  - first:
+      213: -6345397233213783043
+    second: kingdom_hearts_com_fixed_cloud_sprite_sheet_by_enteithehedgehog_d6yqlce_78
+  - first:
+      213: -2521942465398286853
+    second: kingdom_hearts_com_fixed_cloud_sprite_sheet_by_enteithehedgehog_d6yqlce_79
+  - first:
+      213: -3569963892687687864
+    second: kingdom_hearts_com_fixed_cloud_sprite_sheet_by_enteithehedgehog_d6yqlce_80
+  - first:
+      213: -5262865061213517895
+    second: kingdom_hearts_com_fixed_cloud_sprite_sheet_by_enteithehedgehog_d6yqlce_81
+  - first:
+      213: 489070913207874887
+    second: kingdom_hearts_com_fixed_cloud_sprite_sheet_by_enteithehedgehog_d6yqlce_82
+  - first:
+      213: 3833724610087612773
+    second: kingdom_hearts_com_fixed_cloud_sprite_sheet_by_enteithehedgehog_d6yqlce_83
+  - first:
+      213: 1175583147736795586
+    second: kingdom_hearts_com_fixed_cloud_sprite_sheet_by_enteithehedgehog_d6yqlce_84
+  - first:
+      213: -652308596514013825
+    second: kingdom_hearts_com_fixed_cloud_sprite_sheet_by_enteithehedgehog_d6yqlce_85
+  - first:
+      213: -7957230324491686979
+    second: kingdom_hearts_com_fixed_cloud_sprite_sheet_by_enteithehedgehog_d6yqlce_86
+  - first:
+      213: 2080725135761929455
+    second: kingdom_hearts_com_fixed_cloud_sprite_sheet_by_enteithehedgehog_d6yqlce_87
+  - first:
+      213: 6319933950761337202
+    second: kingdom_hearts_com_fixed_cloud_sprite_sheet_by_enteithehedgehog_d6yqlce_88
+  - first:
+      213: 6142669041203779878
+    second: kingdom_hearts_com_fixed_cloud_sprite_sheet_by_enteithehedgehog_d6yqlce_89
+  - first:
+      213: -5507776763336314228
+    second: kingdom_hearts_com_fixed_cloud_sprite_sheet_by_enteithehedgehog_d6yqlce_90
+  - first:
+      213: -2156957481520244123
+    second: kingdom_hearts_com_fixed_cloud_sprite_sheet_by_enteithehedgehog_d6yqlce_91
+  - first:
+      213: 8088087664071948638
+    second: kingdom_hearts_com_fixed_cloud_sprite_sheet_by_enteithehedgehog_d6yqlce_92
+  - first:
+      213: -4263348319360361943
+    second: kingdom_hearts_com_fixed_cloud_sprite_sheet_by_enteithehedgehog_d6yqlce_93
+  - first:
+      213: 6556678598545979116
+    second: kingdom_hearts_com_fixed_cloud_sprite_sheet_by_enteithehedgehog_d6yqlce_94
+  - first:
+      213: 2803185829340911484
+    second: kingdom_hearts_com_fixed_cloud_sprite_sheet_by_enteithehedgehog_d6yqlce_95
+  - first:
+      213: 7831132606919527789
+    second: kingdom_hearts_com_fixed_cloud_sprite_sheet_by_enteithehedgehog_d6yqlce_96
+  - first:
+      213: -5382924394031200645
+    second: kingdom_hearts_com_fixed_cloud_sprite_sheet_by_enteithehedgehog_d6yqlce_97
+  - first:
+      213: 6719959942732396734
+    second: kingdom_hearts_com_fixed_cloud_sprite_sheet_by_enteithehedgehog_d6yqlce_98
+  - first:
+      213: -2712890791458362309
+    second: kingdom_hearts_com_fixed_cloud_sprite_sheet_by_enteithehedgehog_d6yqlce_99
+  - first:
+      213: -2769932612870477925
+    second: kingdom_hearts_com_fixed_cloud_sprite_sheet_by_enteithehedgehog_d6yqlce_100
+  - first:
+      213: 8307714813118810059
+    second: kingdom_hearts_com_fixed_cloud_sprite_sheet_by_enteithehedgehog_d6yqlce_101
+  - first:
+      213: -5732774299155276283
+    second: kingdom_hearts_com_fixed_cloud_sprite_sheet_by_enteithehedgehog_d6yqlce_102
+  - first:
+      213: 897169171542486650
+    second: kingdom_hearts_com_fixed_cloud_sprite_sheet_by_enteithehedgehog_d6yqlce_103
+  - first:
+      213: 903001599423560209
+    second: kingdom_hearts_com_fixed_cloud_sprite_sheet_by_enteithehedgehog_d6yqlce_104
+  - first:
+      213: 5404896902063943976
+    second: kingdom_hearts_com_fixed_cloud_sprite_sheet_by_enteithehedgehog_d6yqlce_105
+  - first:
+      213: 2823653911890591317
+    second: kingdom_hearts_com_fixed_cloud_sprite_sheet_by_enteithehedgehog_d6yqlce_106
+  - first:
+      213: 2613885772402479132
+    second: kingdom_hearts_com_fixed_cloud_sprite_sheet_by_enteithehedgehog_d6yqlce_107
+  - first:
+      213: -1667024580557754707
+    second: kingdom_hearts_com_fixed_cloud_sprite_sheet_by_enteithehedgehog_d6yqlce_108
+  - first:
+      213: -5695378105489726650
+    second: kingdom_hearts_com_fixed_cloud_sprite_sheet_by_enteithehedgehog_d6yqlce_109
+  - first:
+      213: 4202307519010539547
+    second: kingdom_hearts_com_fixed_cloud_sprite_sheet_by_enteithehedgehog_d6yqlce_110
+  - first:
+      213: -333695953774065120
+    second: kingdom_hearts_com_fixed_cloud_sprite_sheet_by_enteithehedgehog_d6yqlce_111
+  - first:
+      213: -2170640149833856538
+    second: kingdom_hearts_com_fixed_cloud_sprite_sheet_by_enteithehedgehog_d6yqlce_112
+  - first:
+      213: -3067949475393961983
+    second: kingdom_hearts_com_fixed_cloud_sprite_sheet_by_enteithehedgehog_d6yqlce_113
+  - first:
+      213: 6349346066640569350
+    second: kingdom_hearts_com_fixed_cloud_sprite_sheet_by_enteithehedgehog_d6yqlce_114
+  - first:
+      213: 8050772693080563196
+    second: kingdom_hearts_com_fixed_cloud_sprite_sheet_by_enteithehedgehog_d6yqlce_115
+  - first:
+      213: 397498927961965085
+    second: kingdom_hearts_com_fixed_cloud_sprite_sheet_by_enteithehedgehog_d6yqlce_116
+  - first:
+      213: 4815412556207861041
+    second: kingdom_hearts_com_fixed_cloud_sprite_sheet_by_enteithehedgehog_d6yqlce_117
+  - first:
+      213: -3429913931798439902
+    second: kingdom_hearts_com_fixed_cloud_sprite_sheet_by_enteithehedgehog_d6yqlce_118
+  - first:
+      213: -5488148956476488547
+    second: kingdom_hearts_com_fixed_cloud_sprite_sheet_by_enteithehedgehog_d6yqlce_119
+  - first:
+      213: 4765860439766736661
+    second: kingdom_hearts_com_fixed_cloud_sprite_sheet_by_enteithehedgehog_d6yqlce_120
+  - first:
+      213: 4397327023101925260
+    second: kingdom_hearts_com_fixed_cloud_sprite_sheet_by_enteithehedgehog_d6yqlce_121
+  - first:
+      213: -4349759058712933599
+    second: kingdom_hearts_com_fixed_cloud_sprite_sheet_by_enteithehedgehog_d6yqlce_122
+  - first:
+      213: -3903944698129877765
+    second: kingdom_hearts_com_fixed_cloud_sprite_sheet_by_enteithehedgehog_d6yqlce_123
+  - first:
+      213: -6218788530610932228
+    second: kingdom_hearts_com_fixed_cloud_sprite_sheet_by_enteithehedgehog_d6yqlce_124
+  - first:
+      213: 7255816675791351755
+    second: kingdom_hearts_com_fixed_cloud_sprite_sheet_by_enteithehedgehog_d6yqlce_125
+  - first:
+      213: -2723136098950412732
+    second: kingdom_hearts_com_fixed_cloud_sprite_sheet_by_enteithehedgehog_d6yqlce_126
+  - first:
+      213: -5652668430601778251
+    second: kingdom_hearts_com_fixed_cloud_sprite_sheet_by_enteithehedgehog_d6yqlce_127
+  - first:
+      213: -972783367033773558
+    second: kingdom_hearts_com_fixed_cloud_sprite_sheet_by_enteithehedgehog_d6yqlce_128
+  - first:
+      213: -7403506340419899425
+    second: kingdom_hearts_com_fixed_cloud_sprite_sheet_by_enteithehedgehog_d6yqlce_129
+  - first:
+      213: 2520951326412201936
+    second: kingdom_hearts_com_fixed_cloud_sprite_sheet_by_enteithehedgehog_d6yqlce_130
+  - first:
+      213: -7262856305560512820
+    second: kingdom_hearts_com_fixed_cloud_sprite_sheet_by_enteithehedgehog_d6yqlce_131
+  - first:
+      213: 8798341940068356902
+    second: kingdom_hearts_com_fixed_cloud_sprite_sheet_by_enteithehedgehog_d6yqlce_132
+  - first:
+      213: 3031308274561727739
+    second: kingdom_hearts_com_fixed_cloud_sprite_sheet_by_enteithehedgehog_d6yqlce_133
+  - first:
+      213: 8651410728936157376
+    second: kingdom_hearts_com_fixed_cloud_sprite_sheet_by_enteithehedgehog_d6yqlce_134
+  - first:
+      213: -8328020433767438630
+    second: kingdom_hearts_com_fixed_cloud_sprite_sheet_by_enteithehedgehog_d6yqlce_135
+  - first:
+      213: 4152805073992487357
+    second: kingdom_hearts_com_fixed_cloud_sprite_sheet_by_enteithehedgehog_d6yqlce_136
+  - first:
+      213: 720451585106036790
+    second: kingdom_hearts_com_fixed_cloud_sprite_sheet_by_enteithehedgehog_d6yqlce_137
+  - first:
+      213: 6069897399082810143
+    second: kingdom_hearts_com_fixed_cloud_sprite_sheet_by_enteithehedgehog_d6yqlce_138
+  - first:
+      213: -2308660958843227876
+    second: kingdom_hearts_com_fixed_cloud_sprite_sheet_by_enteithehedgehog_d6yqlce_139
+  - first:
+      213: 5713702609745645866
+    second: kingdom_hearts_com_fixed_cloud_sprite_sheet_by_enteithehedgehog_d6yqlce_140
+  - first:
+      213: 6088284903032216122
+    second: kingdom_hearts_com_fixed_cloud_sprite_sheet_by_enteithehedgehog_d6yqlce_141
+  - first:
+      213: -6505130824347022475
+    second: kingdom_hearts_com_fixed_cloud_sprite_sheet_by_enteithehedgehog_d6yqlce_142
+  - first:
+      213: 5980928989822275663
+    second: kingdom_hearts_com_fixed_cloud_sprite_sheet_by_enteithehedgehog_d6yqlce_143
+  - first:
+      213: -7514815149465516566
+    second: kingdom_hearts_com_fixed_cloud_sprite_sheet_by_enteithehedgehog_d6yqlce_144
+  - first:
+      213: -6097400101846056059
+    second: kingdom_hearts_com_fixed_cloud_sprite_sheet_by_enteithehedgehog_d6yqlce_145
+  - first:
+      213: -6267093076698083192
+    second: kingdom_hearts_com_fixed_cloud_sprite_sheet_by_enteithehedgehog_d6yqlce_146
+  - first:
+      213: 6622825101036013320
+    second: kingdom_hearts_com_fixed_cloud_sprite_sheet_by_enteithehedgehog_d6yqlce_147
+  - first:
+      213: 1952247630241725214
+    second: kingdom_hearts_com_fixed_cloud_sprite_sheet_by_enteithehedgehog_d6yqlce_148
+  - first:
+      213: 6477813942354941526
+    second: kingdom_hearts_com_fixed_cloud_sprite_sheet_by_enteithehedgehog_d6yqlce_149
+  - first:
+      213: -994917634261868830
+    second: kingdom_hearts_com_fixed_cloud_sprite_sheet_by_enteithehedgehog_d6yqlce_150
+  - first:
+      213: -8678382879202639474
+    second: kingdom_hearts_com_fixed_cloud_sprite_sheet_by_enteithehedgehog_d6yqlce_151
+  - first:
+      213: -7230724664738811392
+    second: kingdom_hearts_com_fixed_cloud_sprite_sheet_by_enteithehedgehog_d6yqlce_152
+  - first:
+      213: -7216819101657872156
+    second: kingdom_hearts_com_fixed_cloud_sprite_sheet_by_enteithehedgehog_d6yqlce_153
+  - first:
+      213: 3899728173935030015
+    second: kingdom_hearts_com_fixed_cloud_sprite_sheet_by_enteithehedgehog_d6yqlce_154
+  - first:
+      213: 2652457076944829278
+    second: kingdom_hearts_com_fixed_cloud_sprite_sheet_by_enteithehedgehog_d6yqlce_155
+  - first:
+      213: -7095947036722369353
+    second: kingdom_hearts_com_fixed_cloud_sprite_sheet_by_enteithehedgehog_d6yqlce_156
+  - first:
+      213: 1766112849794649432
+    second: kingdom_hearts_com_fixed_cloud_sprite_sheet_by_enteithehedgehog_d6yqlce_157
+  - first:
+      213: 2601199079589634857
+    second: kingdom_hearts_com_fixed_cloud_sprite_sheet_by_enteithehedgehog_d6yqlce_158
+  - first:
+      213: -1252055835682309953
+    second: kingdom_hearts_com_fixed_cloud_sprite_sheet_by_enteithehedgehog_d6yqlce_159
+  - first:
+      213: 2882714977803979731
+    second: kingdom_hearts_com_fixed_cloud_sprite_sheet_by_enteithehedgehog_d6yqlce_160
+  - first:
+      213: 8769334222275877984
+    second: kingdom_hearts_com_fixed_cloud_sprite_sheet_by_enteithehedgehog_d6yqlce_161
+  - first:
+      213: 3780379733385737851
+    second: kingdom_hearts_com_fixed_cloud_sprite_sheet_by_enteithehedgehog_d6yqlce_162
+  - first:
+      213: 742857528988771211
+    second: kingdom_hearts_com_fixed_cloud_sprite_sheet_by_enteithehedgehog_d6yqlce_163
+  - first:
+      213: 2725723182379037620
+    second: kingdom_hearts_com_fixed_cloud_sprite_sheet_by_enteithehedgehog_d6yqlce_164
+  - first:
+      213: -2125786602909590778
+    second: kingdom_hearts_com_fixed_cloud_sprite_sheet_by_enteithehedgehog_d6yqlce_165
+  - first:
+      213: 6380945870759837957
+    second: kingdom_hearts_com_fixed_cloud_sprite_sheet_by_enteithehedgehog_d6yqlce_166
+  - first:
+      213: -3597671713812021341
+    second: kingdom_hearts_com_fixed_cloud_sprite_sheet_by_enteithehedgehog_d6yqlce_167
+  - first:
+      213: 143992909084611781
+    second: kingdom_hearts_com_fixed_cloud_sprite_sheet_by_enteithehedgehog_d6yqlce_168
+  - first:
+      213: -8223894592955782030
+    second: kingdom_hearts_com_fixed_cloud_sprite_sheet_by_enteithehedgehog_d6yqlce_169
+  - first:
+      213: -944814385685774421
+    second: kingdom_hearts_com_fixed_cloud_sprite_sheet_by_enteithehedgehog_d6yqlce_170
+  - first:
+      213: -649704134613762155
+    second: kingdom_hearts_com_fixed_cloud_sprite_sheet_by_enteithehedgehog_d6yqlce_171
+  - first:
+      213: -230783125150319671
+    second: kingdom_hearts_com_fixed_cloud_sprite_sheet_by_enteithehedgehog_d6yqlce_172
+  - first:
+      213: -2955326077857815072
+    second: kingdom_hearts_com_fixed_cloud_sprite_sheet_by_enteithehedgehog_d6yqlce_173
+  - first:
+      213: 6016646924239982510
+    second: kingdom_hearts_com_fixed_cloud_sprite_sheet_by_enteithehedgehog_d6yqlce_174
+  - first:
+      213: 9060875994177799966
+    second: kingdom_hearts_com_fixed_cloud_sprite_sheet_by_enteithehedgehog_d6yqlce_175
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: kingdom_hearts_com_fixed_cloud_sprite_sheet_by_enteithehedgehog_d6yqlce_0
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 2540
+        width: 66
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d23223ce4a968660800000000000000
+      internalID: 7387761901819802321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kingdom_hearts_com_fixed_cloud_sprite_sheet_by_enteithehedgehog_d6yqlce_1
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 2540
+        width: 66
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00ca6a7db9c334670800000000000000
+      internalID: 8521721559950732288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kingdom_hearts_com_fixed_cloud_sprite_sheet_by_enteithehedgehog_d6yqlce_2
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 2540
+        width: 65
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90dcba82464d86c50800000000000000
+      internalID: 6658805575711444233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kingdom_hearts_com_fixed_cloud_sprite_sheet_by_enteithehedgehog_d6yqlce_3
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 2540
+        width: 66
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c25cd83f42ccbe6d0800000000000000
+      internalID: -2960047870988925652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kingdom_hearts_com_fixed_cloud_sprite_sheet_by_enteithehedgehog_d6yqlce_4
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 2540
+        width: 66
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5185a3b028d53b1e0800000000000000
+      internalID: -2183298581229053931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kingdom_hearts_com_fixed_cloud_sprite_sheet_by_enteithehedgehog_d6yqlce_5
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 2539
+        width: 65
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8932d84a8f8f24f10800000000000000
+      internalID: 2252636510434960280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kingdom_hearts_com_fixed_cloud_sprite_sheet_by_enteithehedgehog_d6yqlce_6
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 2539
+        width: 66
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44a76133a51fc0020800000000000000
+      internalID: 2309486078640683588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kingdom_hearts_com_fixed_cloud_sprite_sheet_by_enteithehedgehog_d6yqlce_7
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 2539
+        width: 66
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c195f257f95c37710800000000000000
+      internalID: 1689911573850577180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kingdom_hearts_com_fixed_cloud_sprite_sheet_by_enteithehedgehog_d6yqlce_8
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 2597
+        width: 27
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d31c980dc3d81e400800000000000000
+      internalID: 351717538247852349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kingdom_hearts_com_fixed_cloud_sprite_sheet_by_enteithehedgehog_d6yqlce_9
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 2595
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11d778e3364c60400800000000000000
+      internalID: 290135156541848849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kingdom_hearts_com_fixed_cloud_sprite_sheet_by_enteithehedgehog_d6yqlce_10
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 2596
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74aab81aae543ccb0800000000000000
+      internalID: -4844951900085573049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kingdom_hearts_com_fixed_cloud_sprite_sheet_by_enteithehedgehog_d6yqlce_11
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 2540
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db9274fbc575abee0800000000000000
+      internalID: -1244586291156801091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kingdom_hearts_com_fixed_cloud_sprite_sheet_by_enteithehedgehog_d6yqlce_12
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 2540
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d021c8988c259bde0800000000000000
+      internalID: -1316930394774564339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kingdom_hearts_com_fixed_cloud_sprite_sheet_by_enteithehedgehog_d6yqlce_13
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 2542
+        width: 30
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7802e0caccd5553b0800000000000000
+      internalID: -5524406234258726777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kingdom_hearts_com_fixed_cloud_sprite_sheet_by_enteithehedgehog_d6yqlce_14
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 2542
+        width: 30
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1999bdd29a116c90800000000000000
+      internalID: -7178427112964384486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kingdom_hearts_com_fixed_cloud_sprite_sheet_by_enteithehedgehog_d6yqlce_15
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 2542
+        width: 29
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5cb2d7355c5ac290800000000000000
+      internalID: -7869375877797987234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kingdom_hearts_com_fixed_cloud_sprite_sheet_by_enteithehedgehog_d6yqlce_16
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 2423
+        width: 66
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 704c39963a427c0d0800000000000000
+      internalID: -3402710709185559545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kingdom_hearts_com_fixed_cloud_sprite_sheet_by_enteithehedgehog_d6yqlce_17
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 2423
+        width: 66
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6523a332fefe197c0800000000000000
+      internalID: -4066205178171608490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kingdom_hearts_com_fixed_cloud_sprite_sheet_by_enteithehedgehog_d6yqlce_18
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 2423
+        width: 66
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd3f2564e9208cbe0800000000000000
+      internalID: -1456911600646425637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kingdom_hearts_com_fixed_cloud_sprite_sheet_by_enteithehedgehog_d6yqlce_19
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 2423
+        width: 66
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 733a8c95116d2d070800000000000000
+      internalID: 8129795647366275895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kingdom_hearts_com_fixed_cloud_sprite_sheet_by_enteithehedgehog_d6yqlce_20
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 2423
+        width: 65
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b40be87f91dd360b0800000000000000
+      internalID: -5736498396742635445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kingdom_hearts_com_fixed_cloud_sprite_sheet_by_enteithehedgehog_d6yqlce_21
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 2423
+        width: 66
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e457e19721ce2030800000000000000
+      internalID: 3471924738444973285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kingdom_hearts_com_fixed_cloud_sprite_sheet_by_enteithehedgehog_d6yqlce_22
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 2423
+        width: 66
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f625eef40a00f9390800000000000000
+      internalID: -7809522540301364625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kingdom_hearts_com_fixed_cloud_sprite_sheet_by_enteithehedgehog_d6yqlce_23
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 2423
+        width: 66
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5286178c6b05b0f70800000000000000
+      internalID: 9154499413537810469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kingdom_hearts_com_fixed_cloud_sprite_sheet_by_enteithehedgehog_d6yqlce_24
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 2423
+        width: 65
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c2a4a3598a4abf30800000000000000
+      internalID: 4592064723731915457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kingdom_hearts_com_fixed_cloud_sprite_sheet_by_enteithehedgehog_d6yqlce_25
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 2310
+        width: 66
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3488398b7867c420800000000000000
+      internalID: 2650201785523274813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kingdom_hearts_com_fixed_cloud_sprite_sheet_by_enteithehedgehog_d6yqlce_26
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 2310
+        width: 66
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4fa33cc02c180360800000000000000
+      internalID: 7135984536759021388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kingdom_hearts_com_fixed_cloud_sprite_sheet_by_enteithehedgehog_d6yqlce_27
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 2310
+        width: 66
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 981b6866ac9f11ff0800000000000000
+      internalID: -66997871735033463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kingdom_hearts_com_fixed_cloud_sprite_sheet_by_enteithehedgehog_d6yqlce_28
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 2225
+        width: 46
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eee0266d93b44ddd0800000000000000
+      internalID: -2462260384482849042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kingdom_hearts_com_fixed_cloud_sprite_sheet_by_enteithehedgehog_d6yqlce_29
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 2227
+        width: 47
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb2806f75169eb040800000000000000
+      internalID: 4665331283077923516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kingdom_hearts_com_fixed_cloud_sprite_sheet_by_enteithehedgehog_d6yqlce_30
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 2218
+        width: 59
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c483642ca3889a9e0800000000000000
+      internalID: -1609605605859379124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kingdom_hearts_com_fixed_cloud_sprite_sheet_by_enteithehedgehog_d6yqlce_31
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 2224
+        width: 56
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc2d718096c331400800000000000000
+      internalID: 293644822514225869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kingdom_hearts_com_fixed_cloud_sprite_sheet_by_enteithehedgehog_d6yqlce_32
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 2225
+        width: 49
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dda2ba793db2aa9e0800000000000000
+      internalID: -1609425729048859939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kingdom_hearts_com_fixed_cloud_sprite_sheet_by_enteithehedgehog_d6yqlce_33
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 2224
+        width: 44
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a34f1288964f5490800000000000000
+      internalID: -7755402412476644441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kingdom_hearts_com_fixed_cloud_sprite_sheet_by_enteithehedgehog_d6yqlce_34
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 2223
+        width: 49
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b7095e17d13dd8b0800000000000000
+      internalID: -5125886000880875595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kingdom_hearts_com_fixed_cloud_sprite_sheet_by_enteithehedgehog_d6yqlce_35
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 2220
+        width: 50
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b5293803373e7ff0800000000000000
+      internalID: -36531054651562574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kingdom_hearts_com_fixed_cloud_sprite_sheet_by_enteithehedgehog_d6yqlce_36
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 2223
+        width: 54
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba89e7d11c476cf70800000000000000
+      internalID: 9207174860977903787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kingdom_hearts_com_fixed_cloud_sprite_sheet_by_enteithehedgehog_d6yqlce_37
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 2219
+        width: 65
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b690ec4fc604b4f0800000000000000
+      internalID: -814018145229433167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kingdom_hearts_com_fixed_cloud_sprite_sheet_by_enteithehedgehog_d6yqlce_38
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 2136
+        width: 68
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b41d1c5eaeeccfbd0800000000000000
+      internalID: -2594971776999894709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kingdom_hearts_com_fixed_cloud_sprite_sheet_by_enteithehedgehog_d6yqlce_39
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 2143
+        width: 66
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d20af9b629ed8bb0800000000000000
+      internalID: -4932029664362626345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kingdom_hearts_com_fixed_cloud_sprite_sheet_by_enteithehedgehog_d6yqlce_40
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 2139
+        width: 65
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67d55a0288479e200800000000000000
+      internalID: 209826985661521270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kingdom_hearts_com_fixed_cloud_sprite_sheet_by_enteithehedgehog_d6yqlce_41
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 2137
+        width: 62
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 235a2cdb6200e1ae0800000000000000
+      internalID: -1576822653140687566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kingdom_hearts_com_fixed_cloud_sprite_sheet_by_enteithehedgehog_d6yqlce_42
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 2141
+        width: 61
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6812e1882685efda0800000000000000
+      internalID: -5909188480849796730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kingdom_hearts_com_fixed_cloud_sprite_sheet_by_enteithehedgehog_d6yqlce_43
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 2140
+        width: 63
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdf2875550de49310800000000000000
+      internalID: 1411013190438367195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kingdom_hearts_com_fixed_cloud_sprite_sheet_by_enteithehedgehog_d6yqlce_44
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 2056
+        width: 45
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26d447418224ebfd0800000000000000
+      internalID: -2324347617767305886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kingdom_hearts_com_fixed_cloud_sprite_sheet_by_enteithehedgehog_d6yqlce_45
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 2056
+        width: 46
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d051768a5f1342090800000000000000
+      internalID: -8060262501924268787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kingdom_hearts_com_fixed_cloud_sprite_sheet_by_enteithehedgehog_d6yqlce_46
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 2056
+        width: 46
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d506e50d012893a80800000000000000
+      internalID: -8486609014076055459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kingdom_hearts_com_fixed_cloud_sprite_sheet_by_enteithehedgehog_d6yqlce_47
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 2056
+        width: 47
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32a182353f43f7dd0800000000000000
+      internalID: -2486210249608390109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kingdom_hearts_com_fixed_cloud_sprite_sheet_by_enteithehedgehog_d6yqlce_48
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 2056
+        width: 47
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98e0b034c6597d8e0800000000000000
+      internalID: -1668700844703674743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kingdom_hearts_com_fixed_cloud_sprite_sheet_by_enteithehedgehog_d6yqlce_49
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 2056
+        width: 46
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e30d694a45d04490800000000000000
+      internalID: -7763971242550557723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kingdom_hearts_com_fixed_cloud_sprite_sheet_by_enteithehedgehog_d6yqlce_50
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 2056
+        width: 45
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b60a865e0c4fc9c10800000000000000
+      internalID: 2061791838748581995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kingdom_hearts_com_fixed_cloud_sprite_sheet_by_enteithehedgehog_d6yqlce_51
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 2056
+        width: 45
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e29b4ed3dfc89b60800000000000000
+      internalID: 7753175267392852710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kingdom_hearts_com_fixed_cloud_sprite_sheet_by_enteithehedgehog_d6yqlce_52
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 2056
+        width: 47
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c73e357c30dfaaa80800000000000000
+      internalID: -8454667157763792004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kingdom_hearts_com_fixed_cloud_sprite_sheet_by_enteithehedgehog_d6yqlce_53
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 2055
+        width: 62
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dce605fcf56689d0800000000000000
+      internalID: -2772416383482925869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kingdom_hearts_com_fixed_cloud_sprite_sheet_by_enteithehedgehog_d6yqlce_54
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 2057
+        width: 55
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f928fe201f9b80c0800000000000000
+      internalID: -4572386104808297995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kingdom_hearts_com_fixed_cloud_sprite_sheet_by_enteithehedgehog_d6yqlce_55
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 2056
+        width: 55
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 368780b5627620950800000000000000
+      internalID: 6413802233762707555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kingdom_hearts_com_fixed_cloud_sprite_sheet_by_enteithehedgehog_d6yqlce_56
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 2050
+        width: 53
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b27ddd3a481bf2a0800000000000000
+      internalID: -6702736913266281803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kingdom_hearts_com_fixed_cloud_sprite_sheet_by_enteithehedgehog_d6yqlce_57
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 2050
+        width: 66
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad987bc652ff2eff0800000000000000
+      internalID: -8163713098479142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kingdom_hearts_com_fixed_cloud_sprite_sheet_by_enteithehedgehog_d6yqlce_58
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 1971
+        width: 80
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9e9d02b86b563c10800000000000000
+      internalID: 2032912787026321053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kingdom_hearts_com_fixed_cloud_sprite_sheet_by_enteithehedgehog_d6yqlce_59
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 1971
+        width: 79
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eecb0f395da8c8bb0800000000000000
+      internalID: -4932414841962840850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kingdom_hearts_com_fixed_cloud_sprite_sheet_by_enteithehedgehog_d6yqlce_60
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 1971
+        width: 80
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c37d9bbf5eeb1e0d0800000000000000
+      internalID: -3395222749080594628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kingdom_hearts_com_fixed_cloud_sprite_sheet_by_enteithehedgehog_d6yqlce_61
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 1971
+        width: 79
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfcd38bb4d405ba40800000000000000
+      internalID: 5383214241316855035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kingdom_hearts_com_fixed_cloud_sprite_sheet_by_enteithehedgehog_d6yqlce_62
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 1971
+        width: 76
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c2ff97983a03f580800000000000000
+      internalID: -8794674409146158399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kingdom_hearts_com_fixed_cloud_sprite_sheet_by_enteithehedgehog_d6yqlce_63
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 1972
+        width: 78
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1eb329c9b66451190800000000000000
+      internalID: -7992404535696802847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kingdom_hearts_com_fixed_cloud_sprite_sheet_by_enteithehedgehog_d6yqlce_64
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 1971
+        width: 81
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5ff19c7224836390800000000000000
+      internalID: -7826266443786092710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kingdom_hearts_com_fixed_cloud_sprite_sheet_by_enteithehedgehog_d6yqlce_65
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 1861
+        width: 80
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45f97eb8b6beb36b0800000000000000
+      internalID: -5315396088039497900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kingdom_hearts_com_fixed_cloud_sprite_sheet_by_enteithehedgehog_d6yqlce_66
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 1855
+        width: 61
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3261d146302438530800000000000000
+      internalID: 3855998288291239459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kingdom_hearts_com_fixed_cloud_sprite_sheet_by_enteithehedgehog_d6yqlce_67
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 1860
+        width: 52
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa3ccade4f4849c10800000000000000
+      internalID: 2059417117109568426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kingdom_hearts_com_fixed_cloud_sprite_sheet_by_enteithehedgehog_d6yqlce_68
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 1864
+        width: 53
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6e3ae9a9115161b0800000000000000
+      internalID: -5665157685588640146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kingdom_hearts_com_fixed_cloud_sprite_sheet_by_enteithehedgehog_d6yqlce_69
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 1864
+        width: 248
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d01c260444850de90800000000000000
+      internalID: -7003000370399887091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kingdom_hearts_com_fixed_cloud_sprite_sheet_by_enteithehedgehog_d6yqlce_70
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 1759
+        width: 87
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 608e706999763fb30800000000000000
+      internalID: 4319910376923195398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kingdom_hearts_com_fixed_cloud_sprite_sheet_by_enteithehedgehog_d6yqlce_71
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 1760
+        width: 87
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2f10c419a3c25a70800000000000000
+      internalID: 8814322551682506538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kingdom_hearts_com_fixed_cloud_sprite_sheet_by_enteithehedgehog_d6yqlce_72
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 1760
+        width: 87
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adf11aa6b467a8990800000000000000
+      internalID: -7382958572836937766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kingdom_hearts_com_fixed_cloud_sprite_sheet_by_enteithehedgehog_d6yqlce_73
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 1762
+        width: 87
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f07a9cc75bfe06560800000000000000
+      internalID: 7305102158356653839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kingdom_hearts_com_fixed_cloud_sprite_sheet_by_enteithehedgehog_d6yqlce_74
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 1760
+        width: 83
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f88cd5aa1b34fa040800000000000000
+      internalID: 4661018569698297999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kingdom_hearts_com_fixed_cloud_sprite_sheet_by_enteithehedgehog_d6yqlce_75
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 1759
+        width: 85
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52bb98ad581c5e160800000000000000
+      internalID: 7054257171987020581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kingdom_hearts_com_fixed_cloud_sprite_sheet_by_enteithehedgehog_d6yqlce_76
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 1758
+        width: 89
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef24cf12b192e7590800000000000000
+      internalID: -7674651518481710338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kingdom_hearts_com_fixed_cloud_sprite_sheet_by_enteithehedgehog_d6yqlce_77
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 1759
+        width: 88
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08e370277f3e463b0800000000000000
+      internalID: -5520036591339880832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kingdom_hearts_com_fixed_cloud_sprite_sheet_by_enteithehedgehog_d6yqlce_78
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 1666
+        width: 74
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df3cb83f5de90f7a0800000000000000
+      internalID: -6345397233213783043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kingdom_hearts_com_fixed_cloud_sprite_sheet_by_enteithehedgehog_d6yqlce_79
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 1663
+        width: 76
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf556f580b2400dd0800000000000000
+      internalID: -2521942465398286853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kingdom_hearts_com_fixed_cloud_sprite_sheet_by_enteithehedgehog_d6yqlce_80
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 1663
+        width: 90
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84f216b01c0f47ec0800000000000000
+      internalID: -3569963892687687864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kingdom_hearts_com_fixed_cloud_sprite_sheet_by_enteithehedgehog_d6yqlce_81
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 1663
+        width: 94
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b7cd855c1c86f6b0800000000000000
+      internalID: -5262865061213517895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kingdom_hearts_com_fixed_cloud_sprite_sheet_by_enteithehedgehog_d6yqlce_82
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 1660
+        width: 100
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7453bb3876789c600800000000000000
+      internalID: 489070913207874887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kingdom_hearts_com_fixed_cloud_sprite_sheet_by_enteithehedgehog_d6yqlce_83
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 1658
+        width: 83
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 561f1fe8830243530800000000000000
+      internalID: 3833724610087612773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kingdom_hearts_com_fixed_cloud_sprite_sheet_by_enteithehedgehog_d6yqlce_84
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 1654
+        width: 106
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c989c4f4a2805010800000000000000
+      internalID: 1175583147736795586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kingdom_hearts_com_fixed_cloud_sprite_sheet_by_enteithehedgehog_d6yqlce_85
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 1563
+        width: 93
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7d39dc99c882f6f0800000000000000
+      internalID: -652308596514013825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kingdom_hearts_com_fixed_cloud_sprite_sheet_by_enteithehedgehog_d6yqlce_86
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 1466
+        width: 69
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbbe4b8dd2d329190800000000000000
+      internalID: -7957230324491686979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kingdom_hearts_com_fixed_cloud_sprite_sheet_by_enteithehedgehog_d6yqlce_87
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 1471
+        width: 80
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe4f050ac7830ec10800000000000000
+      internalID: 2080725135761929455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kingdom_hearts_com_fixed_cloud_sprite_sheet_by_enteithehedgehog_d6yqlce_88
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 1468
+        width: 68
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2718f0b917ae4b750800000000000000
+      internalID: 6319933950761337202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kingdom_hearts_com_fixed_cloud_sprite_sheet_by_enteithehedgehog_d6yqlce_89
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 1468
+        width: 75
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6299dbd92f42f3550800000000000000
+      internalID: 6142669041203779878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kingdom_hearts_com_fixed_cloud_sprite_sheet_by_enteithehedgehog_d6yqlce_90
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 1465
+        width: 91
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c82303717327093b0800000000000000
+      internalID: -5507776763336314228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kingdom_hearts_com_fixed_cloud_sprite_sheet_by_enteithehedgehog_d6yqlce_91
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 1468
+        width: 97
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56a5d5e3992f012e0800000000000000
+      internalID: -2156957481520244123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kingdom_hearts_com_fixed_cloud_sprite_sheet_by_enteithehedgehog_d6yqlce_92
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 1468
+        width: 95
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e593a31c0e8ae3070800000000000000
+      internalID: 8088087664071948638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kingdom_hearts_com_fixed_cloud_sprite_sheet_by_enteithehedgehog_d6yqlce_93
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 1347
+        width: 56
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92a54ceaa4b85d4c0800000000000000
+      internalID: -4263348319360361943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kingdom_hearts_com_fixed_cloud_sprite_sheet_by_enteithehedgehog_d6yqlce_94
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 1344
+        width: 66
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce63db452700efa50800000000000000
+      internalID: 6556678598545979116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kingdom_hearts_com_fixed_cloud_sprite_sheet_by_enteithehedgehog_d6yqlce_95
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 1347
+        width: 81
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c77164de8aae6e620800000000000000
+      internalID: 2803185829340911484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kingdom_hearts_com_fixed_cloud_sprite_sheet_by_enteithehedgehog_d6yqlce_96
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 1341
+        width: 67
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6dca686d95cdac60800000000000000
+      internalID: 7831132606919527789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kingdom_hearts_com_fixed_cloud_sprite_sheet_by_enteithehedgehog_d6yqlce_97
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 1343
+        width: 71
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b764cf898c20c45b0800000000000000
+      internalID: -5382924394031200645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kingdom_hearts_com_fixed_cloud_sprite_sheet_by_enteithehedgehog_d6yqlce_98
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 1341
+        width: 63
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb83b6bc6f7124d50800000000000000
+      internalID: 6719959942732396734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kingdom_hearts_com_fixed_cloud_sprite_sheet_by_enteithehedgehog_d6yqlce_99
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 1233
+        width: 66
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3c22bcd230e95ad0800000000000000
+      internalID: -2712890791458362309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kingdom_hearts_com_fixed_cloud_sprite_sheet_by_enteithehedgehog_d6yqlce_100
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 1235
+        width: 92
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b97e51ed6f83f89d0800000000000000
+      internalID: -2769932612870477925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kingdom_hearts_com_fixed_cloud_sprite_sheet_by_enteithehedgehog_d6yqlce_101
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 1228
+        width: 72
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc7823b3b9eea4370800000000000000
+      internalID: 8307714813118810059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kingdom_hearts_com_fixed_cloud_sprite_sheet_by_enteithehedgehog_d6yqlce_102
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 1226
+        width: 47
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50e5c5106281170b0800000000000000
+      internalID: -5732774299155276283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kingdom_hearts_com_fixed_cloud_sprite_sheet_by_enteithehedgehog_d6yqlce_103
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 1219
+        width: 33
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7ea83dab92637c00800000000000000
+      internalID: 897169171542486650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kingdom_hearts_com_fixed_cloud_sprite_sheet_by_enteithehedgehog_d6yqlce_104
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 1222
+        width: 69
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11a304d9b2b188c00800000000000000
+      internalID: 903001599423560209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kingdom_hearts_com_fixed_cloud_sprite_sheet_by_enteithehedgehog_d6yqlce_105
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 1103
+        width: 83
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8217127981d020b40800000000000000
+      internalID: 5404896902063943976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kingdom_hearts_com_fixed_cloud_sprite_sheet_by_enteithehedgehog_d6yqlce_106
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 1096
+        width: 61
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55e71e2c542af2720800000000000000
+      internalID: 2823653911890591317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kingdom_hearts_com_fixed_cloud_sprite_sheet_by_enteithehedgehog_d6yqlce_107
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 1098
+        width: 66
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c105f73d243664420800000000000000
+      internalID: 2613885772402479132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kingdom_hearts_com_fixed_cloud_sprite_sheet_by_enteithehedgehog_d6yqlce_108
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 1094
+        width: 67
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daea20ce9f98dd8e0800000000000000
+      internalID: -1667024580557754707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kingdom_hearts_com_fixed_cloud_sprite_sheet_by_enteithehedgehog_d6yqlce_109
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 1106
+        width: 73
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6436fb8d9c3f5f0b0800000000000000
+      internalID: -5695378105489726650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kingdom_hearts_com_fixed_cloud_sprite_sheet_by_enteithehedgehog_d6yqlce_110
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 1106
+        width: 74
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b18839b7c68915a30800000000000000
+      internalID: 4202307519010539547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kingdom_hearts_com_fixed_cloud_sprite_sheet_by_enteithehedgehog_d6yqlce_111
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 1108
+        width: 73
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02acf4c4c497e5bf0800000000000000
+      internalID: -333695953774065120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kingdom_hearts_com_fixed_cloud_sprite_sheet_by_enteithehedgehog_d6yqlce_112
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 1107
+        width: 74
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e9c3f5c84650e1e0800000000000000
+      internalID: -2170640149833856538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kingdom_hearts_com_fixed_cloud_sprite_sheet_by_enteithehedgehog_d6yqlce_113
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 979
+        width: 68
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1000c42f4347c65d0800000000000000
+      internalID: -3067949475393961983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kingdom_hearts_com_fixed_cloud_sprite_sheet_by_enteithehedgehog_d6yqlce_114
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 978
+        width: 75
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 604822a7b986d1850800000000000000
+      internalID: 6349346066640569350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kingdom_hearts_com_fixed_cloud_sprite_sheet_by_enteithehedgehog_d6yqlce_115
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 966
+        width: 65
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfd5b7a0c171abf60800000000000000
+      internalID: 8050772693080563196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kingdom_hearts_com_fixed_cloud_sprite_sheet_by_enteithehedgehog_d6yqlce_116
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 978
+        width: 94
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1285cf3b23348500800000000000000
+      internalID: 397498927961965085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kingdom_hearts_com_fixed_cloud_sprite_sheet_by_enteithehedgehog_d6yqlce_117
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 979
+        width: 93
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13da9bbe438c3d240800000000000000
+      internalID: 4815412556207861041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kingdom_hearts_com_fixed_cloud_sprite_sheet_by_enteithehedgehog_d6yqlce_118
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 974
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2289df4937f7660d0800000000000000
+      internalID: -3429913931798439902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kingdom_hearts_com_fixed_cloud_sprite_sheet_by_enteithehedgehog_d6yqlce_119
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 978
+        width: 58
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d94c9cef99d26d3b0800000000000000
+      internalID: -5488148956476488547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kingdom_hearts_com_fixed_cloud_sprite_sheet_by_enteithehedgehog_d6yqlce_120
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 969
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51f1261c1dcb32240800000000000000
+      internalID: 4765860439766736661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kingdom_hearts_com_fixed_cloud_sprite_sheet_by_enteithehedgehog_d6yqlce_121
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 971
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c87573521a1760d30800000000000000
+      internalID: 4397327023101925260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kingdom_hearts_com_fixed_cloud_sprite_sheet_by_enteithehedgehog_d6yqlce_122
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 972
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12bc0ee9e2d82a3c0800000000000000
+      internalID: -4349759058712933599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kingdom_hearts_com_fixed_cloud_sprite_sheet_by_enteithehedgehog_d6yqlce_123
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 854
+        width: 78
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf4f2352bf662d9c0800000000000000
+      internalID: -3903944698129877765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kingdom_hearts_com_fixed_cloud_sprite_sheet_by_enteithehedgehog_d6yqlce_124
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 849
+        width: 98
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf579aba7cc62b9a0800000000000000
+      internalID: -6218788530610932228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kingdom_hearts_com_fixed_cloud_sprite_sheet_by_enteithehedgehog_d6yqlce_125
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 843
+        width: 90
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcf26ebd2d6d1b460800000000000000
+      internalID: 7255816675791351755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kingdom_hearts_com_fixed_cloud_sprite_sheet_by_enteithehedgehog_d6yqlce_126
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 849
+        width: 71
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4468403552a753ad0800000000000000
+      internalID: -2723136098950412732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kingdom_hearts_com_fixed_cloud_sprite_sheet_by_enteithehedgehog_d6yqlce_127
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 867
+        width: 65
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bb8ae0f200bd81b0800000000000000
+      internalID: -5652668430601778251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kingdom_hearts_com_fixed_cloud_sprite_sheet_by_enteithehedgehog_d6yqlce_128
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 868
+        width: 65
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a022b848eaaff72f0800000000000000
+      internalID: -972783367033773558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kingdom_hearts_com_fixed_cloud_sprite_sheet_by_enteithehedgehog_d6yqlce_129
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 874
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdf6be67536714990800000000000000
+      internalID: -7403506340419899425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kingdom_hearts_com_fixed_cloud_sprite_sheet_by_enteithehedgehog_d6yqlce_130
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 726
+        width: 58
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0df59d2ffd73cf220800000000000000
+      internalID: 2520951326412201936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kingdom_hearts_com_fixed_cloud_sprite_sheet_by_enteithehedgehog_d6yqlce_131
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 722
+        width: 86
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc61c5c9ba6253b90800000000000000
+      internalID: -7262856305560512820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kingdom_hearts_com_fixed_cloud_sprite_sheet_by_enteithehedgehog_d6yqlce_132
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 727
+        width: 119
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 623123ef06df91a70800000000000000
+      internalID: 8798341940068356902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kingdom_hearts_com_fixed_cloud_sprite_sheet_by_enteithehedgehog_d6yqlce_133
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 732
+        width: 109
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfc34fda0de511a20800000000000000
+      internalID: 3031308274561727739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kingdom_hearts_com_fixed_cloud_sprite_sheet_by_enteithehedgehog_d6yqlce_134
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 728
+        width: 76
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c03e38883cff0870800000000000000
+      internalID: 8651410728936157376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kingdom_hearts_com_fixed_cloud_sprite_sheet_by_enteithehedgehog_d6yqlce_135
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 723
+        width: 61
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad6e81b0a8dec6c80800000000000000
+      internalID: -8328020433767438630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kingdom_hearts_com_fixed_cloud_sprite_sheet_by_enteithehedgehog_d6yqlce_136
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 599
+        width: 64
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db113c8563ab1a930800000000000000
+      internalID: 4152805073992487357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kingdom_hearts_com_fixed_cloud_sprite_sheet_by_enteithehedgehog_d6yqlce_137
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 601
+        width: 60
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 638cc1846ee8ff900800000000000000
+      internalID: 720451585106036790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kingdom_hearts_com_fixed_cloud_sprite_sheet_by_enteithehedgehog_d6yqlce_138
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 601
+        width: 58
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1bf567568b9c3450800000000000000
+      internalID: 6069897399082810143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kingdom_hearts_com_fixed_cloud_sprite_sheet_by_enteithehedgehog_d6yqlce_139
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 601
+        width: 97
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c113659f61df5ffd0800000000000000
+      internalID: -2308660958843227876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kingdom_hearts_com_fixed_cloud_sprite_sheet_by_enteithehedgehog_d6yqlce_140
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 601
+        width: 99
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a219c1640462b4f40800000000000000
+      internalID: 5713702609745645866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kingdom_hearts_com_fixed_cloud_sprite_sheet_by_enteithehedgehog_d6yqlce_141
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 601
+        width: 78
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3adb98bcdeed7450800000000000000
+      internalID: 6088284903032216122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kingdom_hearts_com_fixed_cloud_sprite_sheet_by_enteithehedgehog_d6yqlce_142
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 601
+        width: 68
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57b0a5d1bf129b5a0800000000000000
+      internalID: -6505130824347022475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kingdom_hearts_com_fixed_cloud_sprite_sheet_by_enteithehedgehog_d6yqlce_143
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 597
+        width: 64
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4051395a37800350800000000000000
+      internalID: 5980928989822275663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kingdom_hearts_com_fixed_cloud_sprite_sheet_by_enteithehedgehog_d6yqlce_144
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 592
+        width: 64
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae5426fcf6306b790800000000000000
+      internalID: -7514815149465516566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kingdom_hearts_com_fixed_cloud_sprite_sheet_by_enteithehedgehog_d6yqlce_145
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 319
+        width: 34
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 583090ca9eea16ba0800000000000000
+      internalID: -6097400101846056059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kingdom_hearts_com_fixed_cloud_sprite_sheet_by_enteithehedgehog_d6yqlce_146
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 319
+        width: 43
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 880d91d1d00d609a0800000000000000
+      internalID: -6267093076698083192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kingdom_hearts_com_fixed_cloud_sprite_sheet_by_enteithehedgehog_d6yqlce_147
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 319
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 807cac4175009eb50800000000000000
+      internalID: 6622825101036013320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kingdom_hearts_com_fixed_cloud_sprite_sheet_by_enteithehedgehog_d6yqlce_148
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 319
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1bf72250e6c71b10800000000000000
+      internalID: 1952247630241725214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kingdom_hearts_com_fixed_cloud_sprite_sheet_by_enteithehedgehog_d6yqlce_149
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 316
+        width: 29
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 656932ba571d5e950800000000000000
+      internalID: 6477813942354941526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kingdom_hearts_com_fixed_cloud_sprite_sheet_by_enteithehedgehog_d6yqlce_150
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 316
+        width: 55
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ee9c05dea75132f0800000000000000
+      internalID: -994917634261868830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kingdom_hearts_com_fixed_cloud_sprite_sheet_by_enteithehedgehog_d6yqlce_151
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 191
+        width: 418
+        height: 370
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e818b4c50c0309780800000000000000
+      internalID: -8678382879202639474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kingdom_hearts_com_fixed_cloud_sprite_sheet_by_enteithehedgehog_d6yqlce_152
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 271
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00276993a3e47ab90800000000000000
+      internalID: -7230724664738811392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kingdom_hearts_com_fixed_cloud_sprite_sheet_by_enteithehedgehog_d6yqlce_153
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 195
+        width: 47
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e8cd6d6345b8db90800000000000000
+      internalID: -7216819101657872156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kingdom_hearts_com_fixed_cloud_sprite_sheet_by_enteithehedgehog_d6yqlce_154
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 190
+        width: 86
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffeeaffcc1e9e1630800000000000000
+      internalID: 3899728173935030015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kingdom_hearts_com_fixed_cloud_sprite_sheet_by_enteithehedgehog_d6yqlce_155
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 14
+        width: 380
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5b744d78ab6fc420800000000000000
+      internalID: 2652457076944829278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kingdom_hearts_com_fixed_cloud_sprite_sheet_by_enteithehedgehog_d6yqlce_156
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 92
+        width: 45
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bc6d2b14c1268d90800000000000000
+      internalID: -7095947036722369353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kingdom_hearts_com_fixed_cloud_sprite_sheet_by_enteithehedgehog_d6yqlce_157
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 83
+        width: 65
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85d4345974e728810800000000000000
+      internalID: 1766112849794649432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kingdom_hearts_com_fixed_cloud_sprite_sheet_by_enteithehedgehog_d6yqlce_158
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 92
+        width: 47
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9236309f7c0591420800000000000000
+      internalID: 2601199079589634857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kingdom_hearts_com_fixed_cloud_sprite_sheet_by_enteithehedgehog_d6yqlce_159
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 83
+        width: 66
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb87333e9ddcf9ee0800000000000000
+      internalID: -1252055835682309953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kingdom_hearts_com_fixed_cloud_sprite_sheet_by_enteithehedgehog_d6yqlce_160
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 93
+        width: 94
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3db44b0cff5710820800000000000000
+      internalID: 2882714977803979731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kingdom_hearts_com_fixed_cloud_sprite_sheet_by_enteithehedgehog_d6yqlce_161
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 88
+        width: 64
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06c1e63630fe2b970800000000000000
+      internalID: 8769334222275877984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kingdom_hearts_com_fixed_cloud_sprite_sheet_by_enteithehedgehog_d6yqlce_162
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 74
+        width: 25
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b76fa84965b967430800000000000000
+      internalID: 3780379733385737851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kingdom_hearts_com_fixed_cloud_sprite_sheet_by_enteithehedgehog_d6yqlce_163
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 74
+        width: 31
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b83a91e9cf82f4a00800000000000000
+      internalID: 742857528988771211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kingdom_hearts_com_fixed_cloud_sprite_sheet_by_enteithehedgehog_d6yqlce_164
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 54
+        width: 45
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b3ffb9fac6b3d520800000000000000
+      internalID: 2725723182379037620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kingdom_hearts_com_fixed_cloud_sprite_sheet_by_enteithehedgehog_d6yqlce_165
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 59
+        width: 33
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60b1a49f850bf72e0800000000000000
+      internalID: -2125786602909590778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kingdom_hearts_com_fixed_cloud_sprite_sheet_by_enteithehedgehog_d6yqlce_166
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 46
+        width: 35
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 501c2a5367cad8850800000000000000
+      internalID: 6380945870759837957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kingdom_hearts_com_fixed_cloud_sprite_sheet_by_enteithehedgehog_d6yqlce_167
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 56
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3af73c733a0821ec0800000000000000
+      internalID: -3597671713812021341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kingdom_hearts_com_fixed_cloud_sprite_sheet_by_enteithehedgehog_d6yqlce_168
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 46
+        width: 34
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c4d924b9c09ff100800000000000000
+      internalID: 143992909084611781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kingdom_hearts_com_fixed_cloud_sprite_sheet_by_enteithehedgehog_d6yqlce_169
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 43
+        width: 46
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27c6d94907bdedd80800000000000000
+      internalID: -8223894592955782030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kingdom_hearts_com_fixed_cloud_sprite_sheet_by_enteithehedgehog_d6yqlce_170
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 43
+        width: 31
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baf3582725853e2f0800000000000000
+      internalID: -944814385685774421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kingdom_hearts_com_fixed_cloud_sprite_sheet_by_enteithehedgehog_d6yqlce_171
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 31
+        width: 25
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59f7e372889cbf6f0800000000000000
+      internalID: -649704134613762155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kingdom_hearts_com_fixed_cloud_sprite_sheet_by_enteithehedgehog_d6yqlce_172
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 31
+        width: 40
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cbb24d68f71cccf0800000000000000
+      internalID: -230783125150319671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kingdom_hearts_com_fixed_cloud_sprite_sheet_by_enteithehedgehog_d6yqlce_173
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 30
+        width: 53
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e526d517929cf6d0800000000000000
+      internalID: -2955326077857815072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kingdom_hearts_com_fixed_cloud_sprite_sheet_by_enteithehedgehog_d6yqlce_174
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 17
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eaf4542008c6f7350800000000000000
+      internalID: 6016646924239982510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kingdom_hearts_com_fixed_cloud_sprite_sheet_by_enteithehedgehog_d6yqlce_175
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 15
+        width: 58
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1705dac5b2bebd70800000000000000
+      internalID: 9060875994177799966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

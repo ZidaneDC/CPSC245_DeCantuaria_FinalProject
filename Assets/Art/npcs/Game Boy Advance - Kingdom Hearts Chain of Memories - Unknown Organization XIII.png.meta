@@ -1,0 +1,2288 @@
+fileFormatVersion: 2
+guid: fb9b5613ea785c3489ebe5ed380170d5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1201491712604703195
+    second: Game Boy Advance - Kingdom Hearts Chain of Memories - Unknown Organization
+      XIII_0
+  - first:
+      213: 8429615428242075611
+    second: Game Boy Advance - Kingdom Hearts Chain of Memories - Unknown Organization
+      XIII_1
+  - first:
+      213: -1136171197990460396
+    second: Game Boy Advance - Kingdom Hearts Chain of Memories - Unknown Organization
+      XIII_2
+  - first:
+      213: 2845884522536696400
+    second: Game Boy Advance - Kingdom Hearts Chain of Memories - Unknown Organization
+      XIII_3
+  - first:
+      213: -3513766415226196981
+    second: Game Boy Advance - Kingdom Hearts Chain of Memories - Unknown Organization
+      XIII_4
+  - first:
+      213: 5507969132310378586
+    second: Game Boy Advance - Kingdom Hearts Chain of Memories - Unknown Organization
+      XIII_5
+  - first:
+      213: 2199376651437078097
+    second: Game Boy Advance - Kingdom Hearts Chain of Memories - Unknown Organization
+      XIII_6
+  - first:
+      213: -2702227435071401082
+    second: Game Boy Advance - Kingdom Hearts Chain of Memories - Unknown Organization
+      XIII_7
+  - first:
+      213: -3873206788536733520
+    second: Game Boy Advance - Kingdom Hearts Chain of Memories - Unknown Organization
+      XIII_8
+  - first:
+      213: -3388024060861233582
+    second: Game Boy Advance - Kingdom Hearts Chain of Memories - Unknown Organization
+      XIII_9
+  - first:
+      213: 3263056767264892213
+    second: Game Boy Advance - Kingdom Hearts Chain of Memories - Unknown Organization
+      XIII_10
+  - first:
+      213: 6021861287117232784
+    second: Game Boy Advance - Kingdom Hearts Chain of Memories - Unknown Organization
+      XIII_11
+  - first:
+      213: -5275313770838771836
+    second: Game Boy Advance - Kingdom Hearts Chain of Memories - Unknown Organization
+      XIII_12
+  - first:
+      213: 8541301645493271062
+    second: Game Boy Advance - Kingdom Hearts Chain of Memories - Unknown Organization
+      XIII_13
+  - first:
+      213: -4414329448653204177
+    second: Game Boy Advance - Kingdom Hearts Chain of Memories - Unknown Organization
+      XIII_14
+  - first:
+      213: 2860466049694105359
+    second: Game Boy Advance - Kingdom Hearts Chain of Memories - Unknown Organization
+      XIII_15
+  - first:
+      213: 7259294827041688467
+    second: Game Boy Advance - Kingdom Hearts Chain of Memories - Unknown Organization
+      XIII_16
+  - first:
+      213: 7043801270815555493
+    second: Game Boy Advance - Kingdom Hearts Chain of Memories - Unknown Organization
+      XIII_17
+  - first:
+      213: 4308357050105159498
+    second: Game Boy Advance - Kingdom Hearts Chain of Memories - Unknown Organization
+      XIII_18
+  - first:
+      213: 8844855916269002412
+    second: Game Boy Advance - Kingdom Hearts Chain of Memories - Unknown Organization
+      XIII_19
+  - first:
+      213: -1449896385501083423
+    second: Game Boy Advance - Kingdom Hearts Chain of Memories - Unknown Organization
+      XIII_20
+  - first:
+      213: -9195555187354789123
+    second: Game Boy Advance - Kingdom Hearts Chain of Memories - Unknown Organization
+      XIII_21
+  - first:
+      213: -599810925529333827
+    second: Game Boy Advance - Kingdom Hearts Chain of Memories - Unknown Organization
+      XIII_22
+  - first:
+      213: 5474949725770504690
+    second: Game Boy Advance - Kingdom Hearts Chain of Memories - Unknown Organization
+      XIII_23
+  - first:
+      213: -8118065366379213495
+    second: Game Boy Advance - Kingdom Hearts Chain of Memories - Unknown Organization
+      XIII_24
+  - first:
+      213: -7730743457953787596
+    second: Game Boy Advance - Kingdom Hearts Chain of Memories - Unknown Organization
+      XIII_25
+  - first:
+      213: 2639431077453213999
+    second: Game Boy Advance - Kingdom Hearts Chain of Memories - Unknown Organization
+      XIII_26
+  - first:
+      213: -2348554022154727476
+    second: Game Boy Advance - Kingdom Hearts Chain of Memories - Unknown Organization
+      XIII_27
+  - first:
+      213: -3273271717239074246
+    second: Game Boy Advance - Kingdom Hearts Chain of Memories - Unknown Organization
+      XIII_28
+  - first:
+      213: -1387848280407291192
+    second: Game Boy Advance - Kingdom Hearts Chain of Memories - Unknown Organization
+      XIII_29
+  - first:
+      213: -6484710371249640412
+    second: Game Boy Advance - Kingdom Hearts Chain of Memories - Unknown Organization
+      XIII_30
+  - first:
+      213: 5710867699900855271
+    second: Game Boy Advance - Kingdom Hearts Chain of Memories - Unknown Organization
+      XIII_31
+  - first:
+      213: -8669658626191878133
+    second: Game Boy Advance - Kingdom Hearts Chain of Memories - Unknown Organization
+      XIII_32
+  - first:
+      213: -6658902585499877540
+    second: Game Boy Advance - Kingdom Hearts Chain of Memories - Unknown Organization
+      XIII_33
+  - first:
+      213: 5872319010991387722
+    second: Game Boy Advance - Kingdom Hearts Chain of Memories - Unknown Organization
+      XIII_34
+  - first:
+      213: 5417226695832942774
+    second: Game Boy Advance - Kingdom Hearts Chain of Memories - Unknown Organization
+      XIII_35
+  - first:
+      213: -3543755467830405836
+    second: Game Boy Advance - Kingdom Hearts Chain of Memories - Unknown Organization
+      XIII_36
+  - first:
+      213: -1307668716870054329
+    second: Game Boy Advance - Kingdom Hearts Chain of Memories - Unknown Organization
+      XIII_37
+  - first:
+      213: 7718524981466181501
+    second: Game Boy Advance - Kingdom Hearts Chain of Memories - Unknown Organization
+      XIII_38
+  - first:
+      213: -5267348297851088256
+    second: Game Boy Advance - Kingdom Hearts Chain of Memories - Unknown Organization
+      XIII_39
+  - first:
+      213: -6473427098610997895
+    second: Game Boy Advance - Kingdom Hearts Chain of Memories - Unknown Organization
+      XIII_40
+  - first:
+      213: 655236688093771562
+    second: Game Boy Advance - Kingdom Hearts Chain of Memories - Unknown Organization
+      XIII_41
+  - first:
+      213: -5929479918314842030
+    second: Game Boy Advance - Kingdom Hearts Chain of Memories - Unknown Organization
+      XIII_42
+  - first:
+      213: 7383213764888287395
+    second: Game Boy Advance - Kingdom Hearts Chain of Memories - Unknown Organization
+      XIII_43
+  - first:
+      213: -1590415675407249471
+    second: Game Boy Advance - Kingdom Hearts Chain of Memories - Unknown Organization
+      XIII_44
+  - first:
+      213: 7691672423013242286
+    second: Game Boy Advance - Kingdom Hearts Chain of Memories - Unknown Organization
+      XIII_45
+  - first:
+      213: 2769302087074006487
+    second: Game Boy Advance - Kingdom Hearts Chain of Memories - Unknown Organization
+      XIII_46
+  - first:
+      213: 2491894461857834714
+    second: Game Boy Advance - Kingdom Hearts Chain of Memories - Unknown Organization
+      XIII_47
+  - first:
+      213: 9096736561728071004
+    second: Game Boy Advance - Kingdom Hearts Chain of Memories - Unknown Organization
+      XIII_48
+  - first:
+      213: -6371390730830707533
+    second: Game Boy Advance - Kingdom Hearts Chain of Memories - Unknown Organization
+      XIII_49
+  - first:
+      213: 8543675979162857585
+    second: Game Boy Advance - Kingdom Hearts Chain of Memories - Unknown Organization
+      XIII_50
+  - first:
+      213: -4905159871883654958
+    second: Game Boy Advance - Kingdom Hearts Chain of Memories - Unknown Organization
+      XIII_51
+  - first:
+      213: 3586120494911435772
+    second: Game Boy Advance - Kingdom Hearts Chain of Memories - Unknown Organization
+      XIII_52
+  - first:
+      213: 1892329913457670059
+    second: Game Boy Advance - Kingdom Hearts Chain of Memories - Unknown Organization
+      XIII_53
+  - first:
+      213: 3420540386527774117
+    second: Game Boy Advance - Kingdom Hearts Chain of Memories - Unknown Organization
+      XIII_54
+  - first:
+      213: -8490767669394751722
+    second: Game Boy Advance - Kingdom Hearts Chain of Memories - Unknown Organization
+      XIII_55
+  - first:
+      213: -2111725416958989508
+    second: Game Boy Advance - Kingdom Hearts Chain of Memories - Unknown Organization
+      XIII_56
+  - first:
+      213: -6819427740667996370
+    second: Game Boy Advance - Kingdom Hearts Chain of Memories - Unknown Organization
+      XIII_57
+  - first:
+      213: 3143625939069527787
+    second: Game Boy Advance - Kingdom Hearts Chain of Memories - Unknown Organization
+      XIII_58
+  - first:
+      213: 5519758505110680712
+    second: Game Boy Advance - Kingdom Hearts Chain of Memories - Unknown Organization
+      XIII_59
+  - first:
+      213: 2982756766862863522
+    second: Game Boy Advance - Kingdom Hearts Chain of Memories - Unknown Organization
+      XIII_60
+  - first:
+      213: 933882832606206595
+    second: Game Boy Advance - Kingdom Hearts Chain of Memories - Unknown Organization
+      XIII_61
+  - first:
+      213: -4558765921159818430
+    second: Game Boy Advance - Kingdom Hearts Chain of Memories - Unknown Organization
+      XIII_62
+  - first:
+      213: 1929085827555309846
+    second: Game Boy Advance - Kingdom Hearts Chain of Memories - Unknown Organization
+      XIII_63
+  - first:
+      213: -3557179449163970106
+    second: Game Boy Advance - Kingdom Hearts Chain of Memories - Unknown Organization
+      XIII_64
+  - first:
+      213: 7150378756813975523
+    second: Game Boy Advance - Kingdom Hearts Chain of Memories - Unknown Organization
+      XIII_65
+  - first:
+      213: -5066117298430894205
+    second: Game Boy Advance - Kingdom Hearts Chain of Memories - Unknown Organization
+      XIII_66
+  - first:
+      213: 3879992190386346864
+    second: Game Boy Advance - Kingdom Hearts Chain of Memories - Unknown Organization
+      XIII_67
+  - first:
+      213: 7048382626219372108
+    second: Game Boy Advance - Kingdom Hearts Chain of Memories - Unknown Organization
+      XIII_68
+  - first:
+      213: -8965711192604671288
+    second: Game Boy Advance - Kingdom Hearts Chain of Memories - Unknown Organization
+      XIII_69
+  - first:
+      213: 2039054054962267189
+    second: Game Boy Advance - Kingdom Hearts Chain of Memories - Unknown Organization
+      XIII_70
+  - first:
+      213: -3624530889268958898
+    second: Game Boy Advance - Kingdom Hearts Chain of Memories - Unknown Organization
+      XIII_71
+  - first:
+      213: 4745128135288673594
+    second: Game Boy Advance - Kingdom Hearts Chain of Memories - Unknown Organization
+      XIII_72
+  - first:
+      213: -2510178998214948700
+    second: Game Boy Advance - Kingdom Hearts Chain of Memories - Unknown Organization
+      XIII_73
+  - first:
+      213: -1761167023309563075
+    second: Game Boy Advance - Kingdom Hearts Chain of Memories - Unknown Organization
+      XIII_74
+  - first:
+      213: 4571928926832165031
+    second: Game Boy Advance - Kingdom Hearts Chain of Memories - Unknown Organization
+      XIII_75
+  - first:
+      213: -4762911058534734805
+    second: Game Boy Advance - Kingdom Hearts Chain of Memories - Unknown Organization
+      XIII_76
+  - first:
+      213: 7130361907034423161
+    second: Game Boy Advance - Kingdom Hearts Chain of Memories - Unknown Organization
+      XIII_77
+  - first:
+      213: -3013887858152471234
+    second: Game Boy Advance - Kingdom Hearts Chain of Memories - Unknown Organization
+      XIII_78
+  - first:
+      213: -176303249258230123
+    second: Game Boy Advance - Kingdom Hearts Chain of Memories - Unknown Organization
+      XIII_79
+  - first:
+      213: 2246117438150234117
+    second: Game Boy Advance - Kingdom Hearts Chain of Memories - Unknown Organization
+      XIII_80
+  - first:
+      213: 4010125017533702475
+    second: Game Boy Advance - Kingdom Hearts Chain of Memories - Unknown Organization
+      XIII_81
+  - first:
+      213: 3111548243525603909
+    second: Game Boy Advance - Kingdom Hearts Chain of Memories - Unknown Organization
+      XIII_82
+  - first:
+      213: -3756887927801008986
+    second: Game Boy Advance - Kingdom Hearts Chain of Memories - Unknown Organization
+      XIII_83
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Game Boy Advance - Kingdom Hearts Chain of Memories - Unknown Organization
+        XIII_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 397
+        width: 29
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 526fe9537a1735fe0800000000000000
+      internalID: -1201491712604703195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kingdom Hearts Chain of Memories - Unknown Organization
+        XIII_1
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 397
+        width: 27
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdf6589e1920cf470800000000000000
+      internalID: 8429615428242075611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kingdom Hearts Chain of Memories - Unknown Organization
+        XIII_2
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 397
+        width: 26
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 414afbba0528b30f0800000000000000
+      internalID: -1136171197990460396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kingdom Hearts Chain of Memories - Unknown Organization
+        XIII_3
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 397
+        width: 29
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05af49525ec9e7720800000000000000
+      internalID: 2845884522536696400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kingdom Hearts Chain of Memories - Unknown Organization
+        XIII_4
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 397
+        width: 35
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0caeb4ef089c3fc0800000000000000
+      internalID: -3513766415226196981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kingdom Hearts Chain of Memories - Unknown Organization
+        XIII_5
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 316
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a583d2d4ebc307c40800000000000000
+      internalID: 5507969132310378586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kingdom Hearts Chain of Memories - Unknown Organization
+        XIII_6
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 316
+        width: 34
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 156f1346961c58e10800000000000000
+      internalID: 2199376651437078097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kingdom Hearts Chain of Memories - Unknown Organization
+        XIII_7
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 316
+        width: 34
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 683114ef672cf7ad0800000000000000
+      internalID: -2702227435071401082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kingdom Hearts Chain of Memories - Unknown Organization
+        XIII_8
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 316
+        width: 36
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b0f2ab62fa9f3ac0800000000000000
+      internalID: -3873206788536733520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kingdom Hearts Chain of Memories - Unknown Organization
+        XIII_9
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 316
+        width: 48
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 256c3e131125bf0d0800000000000000
+      internalID: -3388024060861233582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kingdom Hearts Chain of Memories - Unknown Organization
+        XIII_10
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 361
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53522c667d4b84d20800000000000000
+      internalID: 3263056767264892213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kingdom Hearts Chain of Memories - Unknown Organization
+        XIII_11
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 244
+        width: 38
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09a9c497fe2f19350800000000000000
+      internalID: 6021861287117232784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kingdom Hearts Chain of Memories - Unknown Organization
+        XIII_12
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 244
+        width: 42
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 487bd6243125ac6b0800000000000000
+      internalID: -5275313770838771836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kingdom Hearts Chain of Memories - Unknown Organization
+        XIII_13
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 244
+        width: 46
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61af513c79cc88670800000000000000
+      internalID: 8541301645493271062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kingdom Hearts Chain of Memories - Unknown Organization
+        XIII_14
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 164
+        width: 30
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f25da7b21c62db2c0800000000000000
+      internalID: -4414329448653204177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kingdom Hearts Chain of Memories - Unknown Organization
+        XIII_15
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 164
+        width: 30
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0ff41087ba62b720800000000000000
+      internalID: 2860466049694105359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kingdom Hearts Chain of Memories - Unknown Organization
+        XIII_16
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 164
+        width: 32
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39b86ad0f223eb460800000000000000
+      internalID: 7259294827041688467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kingdom Hearts Chain of Memories - Unknown Organization
+        XIII_17
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 164
+        width: 29
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5aff767afeb90c160800000000000000
+      internalID: 7043801270815555493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kingdom Hearts Chain of Memories - Unknown Organization
+        XIII_18
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 90
+        width: 25
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4f511119eb5acb30800000000000000
+      internalID: 4308357050105159498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kingdom Hearts Chain of Memories - Unknown Organization
+        XIII_19
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 90
+        width: 29
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caed9b2089d3fba70800000000000000
+      internalID: 8844855916269002412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kingdom Hearts Chain of Memories - Unknown Organization
+        XIII_20
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 90
+        width: 29
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e8c5155beee0ebe0800000000000000
+      internalID: -1449896385501083423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kingdom Hearts Chain of Memories - Unknown Organization
+        XIII_21
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 90
+        width: 30
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfa9739f643d26080800000000000000
+      internalID: -9195555187354789123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kingdom Hearts Chain of Memories - Unknown Organization
+        XIII_22
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 90
+        width: 29
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbffc63242b0da7f0800000000000000
+      internalID: -599810925529333827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kingdom Hearts Chain of Memories - Unknown Organization
+        XIII_23
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 90
+        width: 30
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f95caf94cdeafb40800000000000000
+      internalID: 5474949725770504690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kingdom Hearts Chain of Memories - Unknown Organization
+        XIII_24
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 90
+        width: 31
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94dc0958f86d65f80800000000000000
+      internalID: -8118065366379213495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kingdom Hearts Chain of Memories - Unknown Organization
+        XIII_25
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 90
+        width: 34
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4315df2c8c1e6b490800000000000000
+      internalID: -7730743457953787596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kingdom Hearts Chain of Memories - Unknown Organization
+        XIII_26
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 90
+        width: 32
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f21b9b4a49421a420800000000000000
+      internalID: 2639431077453213999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kingdom Hearts Chain of Memories - Unknown Organization
+        XIII_27
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 2
+        width: 60
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccf07ad5f82486fd0800000000000000
+      internalID: -2348554022154727476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kingdom Hearts Chain of Memories - Unknown Organization
+        XIII_28
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 2
+        width: 60
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a32d1a837b00392d0800000000000000
+      internalID: -3273271717239074246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kingdom Hearts Chain of Memories - Unknown Organization
+        XIII_29
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 34
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cacf24975f5dbce0800000000000000
+      internalID: -1387848280407291192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kingdom Hearts Chain of Memories - Unknown Organization
+        XIII_30
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 34
+        width: 20
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42caf5a564ea106a0800000000000000
+      internalID: -6484710371249640412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kingdom Hearts Chain of Memories - Unknown Organization
+        XIII_31
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 34
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e3b7d36ae3114f40800000000000000
+      internalID: 5710867699900855271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kingdom Hearts Chain of Memories - Unknown Organization
+        XIII_32
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 34
+        width: 16
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b089eedc96f2fa780800000000000000
+      internalID: -8669658626191878133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kingdom Hearts Chain of Memories - Unknown Organization
+        XIII_33
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 34
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5f795df063d693a0800000000000000
+      internalID: -6658902585499877540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kingdom Hearts Chain of Memories - Unknown Organization
+        XIII_34
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 34
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a443ae1170bae7150800000000000000
+      internalID: 5872319010991387722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kingdom Hearts Chain of Memories - Unknown Organization
+        XIII_35
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 34
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b8b2e86afadd2b40800000000000000
+      internalID: 5417226695832942774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kingdom Hearts Chain of Memories - Unknown Organization
+        XIII_36
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 34
+        width: 19
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 435de197d2d02dec0800000000000000
+      internalID: -3543755467830405836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kingdom Hearts Chain of Memories - Unknown Organization
+        XIII_37
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 31
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74ec117fa3a3adde0800000000000000
+      internalID: -1307668716870054329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kingdom Hearts Chain of Memories - Unknown Organization
+        XIII_38
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 34
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7f254e7395bd1b60800000000000000
+      internalID: 7718524981466181501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kingdom Hearts Chain of Memories - Unknown Organization
+        XIII_39
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 34
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 082d35671ae96e6b0800000000000000
+      internalID: -5267348297851088256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kingdom Hearts Chain of Memories - Unknown Organization
+        XIII_40
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 34
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97567ebf954c926a0800000000000000
+      internalID: -6473427098610997895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kingdom Hearts Chain of Memories - Unknown Organization
+        XIII_41
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 34
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a27f1a5db4ed71900800000000000000
+      internalID: 655236688093771562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kingdom Hearts Chain of Memories - Unknown Organization
+        XIII_42
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 34
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25818061e6146bda0800000000000000
+      internalID: -5929479918314842030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kingdom Hearts Chain of Memories - Unknown Organization
+        XIII_43
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 34
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a8d0fc1dc1767660800000000000000
+      internalID: 7383213764888287395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kingdom Hearts Chain of Memories - Unknown Organization
+        XIII_44
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 34
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cf432e9e55bde9e0800000000000000
+      internalID: -1590415675407249471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kingdom Hearts Chain of Memories - Unknown Organization
+        XIII_45
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 34
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea55f56015f4eba60800000000000000
+      internalID: 7691672423013242286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kingdom Hearts Chain of Memories - Unknown Organization
+        XIII_46
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 34
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d54bc763998e6620800000000000000
+      internalID: 2769302087074006487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kingdom Hearts Chain of Memories - Unknown Organization
+        XIII_47
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 34
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad6acc87fccf49220800000000000000
+      internalID: 2491894461857834714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kingdom Hearts Chain of Memories - Unknown Organization
+        XIII_48
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 19
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c552c11d4b91e3e70800000000000000
+      internalID: 9096736561728071004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kingdom Hearts Chain of Memories - Unknown Organization
+        XIII_49
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 16
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b48e9b23e54497a0800000000000000
+      internalID: -6371390730830707533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kingdom Hearts Chain of Memories - Unknown Organization
+        XIII_50
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 16
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1703a06690c319670800000000000000
+      internalID: 8543675979162857585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kingdom Hearts Chain of Memories - Unknown Organization
+        XIII_51
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 19
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d8cfddc51f5debb0800000000000000
+      internalID: -4905159871883654958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kingdom Hearts Chain of Memories - Unknown Organization
+        XIII_52
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 19
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf3b1fc079574c130800000000000000
+      internalID: 3586120494911435772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kingdom Hearts Chain of Memories - Unknown Organization
+        XIII_53
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 19
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba77d71c708e24a10800000000000000
+      internalID: 1892329913457670059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kingdom Hearts Chain of Memories - Unknown Organization
+        XIII_54
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 16
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a58dd6db53387f20800000000000000
+      internalID: 3420540386527774117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kingdom Hearts Chain of Memories - Unknown Organization
+        XIII_55
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 19
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61fba5b6acbba2a80800000000000000
+      internalID: -8490767669394751722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kingdom Hearts Chain of Memories - Unknown Organization
+        XIII_56
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 19
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3beef2fbe4a1b2e0800000000000000
+      internalID: -2111725416958989508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kingdom Hearts Chain of Memories - Unknown Organization
+        XIII_57
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 19
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e271a0ac9968c51a0800000000000000
+      internalID: -6819427740667996370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kingdom Hearts Chain of Memories - Unknown Organization
+        XIII_58
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 19
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be661fcc22760ab20800000000000000
+      internalID: 3143625939069527787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kingdom Hearts Chain of Memories - Unknown Organization
+        XIII_59
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 19
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 884301f8d1f1a9c40800000000000000
+      internalID: 5519758505110680712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kingdom Hearts Chain of Memories - Unknown Organization
+        XIII_60
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 19
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ace044e971e46920800000000000000
+      internalID: 2982756766862863522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kingdom Hearts Chain of Memories - Unknown Organization
+        XIII_61
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 19
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38a14530d71d5fc00800000000000000
+      internalID: 933882832606206595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kingdom Hearts Chain of Memories - Unknown Organization
+        XIII_62
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 19
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 243dc1f4c820cb0c0800000000000000
+      internalID: -4558765921159818430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kingdom Hearts Chain of Memories - Unknown Organization
+        XIII_63
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 19
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 619bca4e65d75ca10800000000000000
+      internalID: 1929085827555309846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kingdom Hearts Chain of Memories - Unknown Organization
+        XIII_64
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 19
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c90342432c52aec0800000000000000
+      internalID: -3557179449163970106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kingdom Hearts Chain of Memories - Unknown Organization
+        XIII_65
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 19
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ef6561589f3b3360800000000000000
+      internalID: 7150378756813975523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kingdom Hearts Chain of Memories - Unknown Organization
+        XIII_66
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 19
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38f9094982981b9b0800000000000000
+      internalID: -5066117298430894205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kingdom Hearts Chain of Memories - Unknown Organization
+        XIII_67
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 19
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07b944f075088d530800000000000000
+      internalID: 3879992190386346864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kingdom Hearts Chain of Memories - Unknown Organization
+        XIII_68
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 19
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4e27d497a2e0d160800000000000000
+      internalID: 7048382626219372108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kingdom Hearts Chain of Memories - Unknown Organization
+        XIII_69
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 19
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c20e063c25639380800000000000000
+      internalID: -8965711192604671288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kingdom Hearts Chain of Memories - Unknown Organization
+        XIII_70
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 19
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53488df0cdc2c4c10800000000000000
+      internalID: 2039054054962267189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kingdom Hearts Chain of Memories - Unknown Organization
+        XIII_71
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 19
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4961bb1c5413bdc0800000000000000
+      internalID: -3624530889268958898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kingdom Hearts Chain of Memories - Unknown Organization
+        XIII_72
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 19
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a35d795f5e41ad140800000000000000
+      internalID: 4745128135288673594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kingdom Hearts Chain of Memories - Unknown Organization
+        XIII_73
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 19
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a880c8208d0a2dd0800000000000000
+      internalID: -2510178998214948700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kingdom Hearts Chain of Memories - Unknown Organization
+        XIII_74
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 19
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3b50816ce31f87e0800000000000000
+      internalID: -1761167023309563075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kingdom Hearts Chain of Memories - Unknown Organization
+        XIII_75
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 4
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a00a26c221c27f30800000000000000
+      internalID: 4571928926832165031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kingdom Hearts Chain of Memories - Unknown Organization
+        XIII_76
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 4
+        width: 17
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b24e14390adb6edb0800000000000000
+      internalID: -4762911058534734805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kingdom Hearts Chain of Memories - Unknown Organization
+        XIII_77
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 4
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97f73cc406224f260800000000000000
+      internalID: 7130361907034423161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kingdom Hearts Chain of Memories - Unknown Organization
+        XIII_78
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 4
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3585f516f48c26d0800000000000000
+      internalID: -3013887858152471234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kingdom Hearts Chain of Memories - Unknown Organization
+        XIII_79
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 1
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59e473ff025ad8df0800000000000000
+      internalID: -176303249258230123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kingdom Hearts Chain of Memories - Unknown Organization
+        XIII_80
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 4
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50051c8d8efcb2f10800000000000000
+      internalID: 2246117438150234117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kingdom Hearts Chain of Memories - Unknown Organization
+        XIII_81
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 4
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b41e007f473d6a730800000000000000
+      internalID: 4010125017533702475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kingdom Hearts Chain of Memories - Unknown Organization
+        XIII_82
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 4
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54295dc44a07e2b20800000000000000
+      internalID: 3111548243525603909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kingdom Hearts Chain of Memories - Unknown Organization
+        XIII_83
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 4
+        width: 18
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6aca772a55adcdbc0800000000000000
+      internalID: -3756887927801008986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
